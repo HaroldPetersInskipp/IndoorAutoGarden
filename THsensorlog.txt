@@ -1,0 +1,8746 @@
+December 27, 2021 7:24 AM
+Temperature: 69 F
+Humidity: 42.4 %
+
+
+December 27, 2021 7:41 AM
+Temperature: 69 F
+Humidity: 43.1 %
+
+
+December 27, 2021 8:01 AM
+Temperature: 69 F
+Humidity: 43.4 %
+
+
+December 27, 2021 8:21 AM
+Temperature: 69 F
+Humidity: 43.3 %
+
+
+December 27, 2021 8:41 AM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 27, 2021 9:01 AM
+Temperature: 69 F
+Humidity: 43.0 %
+
+
+December 27, 2021 9:21 AM
+Temperature: 69 F
+Humidity: 42.8 %
+
+
+December 27, 2021 9:41 AM
+Temperature: 68 F
+Humidity: 42.8 %
+
+
+December 27, 2021 10:01 AM
+Temperature: 68 F
+Humidity: 42.3 %
+
+
+December 27, 2021 10:21 AM
+Temperature: 70 F
+Humidity: 43.8 %
+
+
+December 27, 2021 10:41 AM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 27, 2021 11:01 AM
+Temperature: 69 F
+Humidity: 43.6 %
+
+
+December 27, 2021 11:21 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 69 F
+Humidity: 43.5 %
+
+
+December 27, 2021 11:41 AM
+Temperature: 69 F
+Humidity: 43.4 %
+
+
+December 27, 2021 12:01 PM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 27, 2021 12:21 PM
+Temperature: 68 F
+Humidity: 43.7 %
+
+
+December 27, 2021 12:41 PM
+Temperature: 68 F
+Humidity: 44.0 %
+
+
+December 27, 2021 1:01 PM
+Temperature: 68 F
+Humidity: 43.9 %
+
+
+December 27, 2021 1:21 PM
+Temperature: 70 F
+Humidity: 42.9 %
+
+
+December 27, 2021 1:41 PM
+Temperature: 69 F
+Humidity: 42.3 %
+
+
+December 27, 2021 2:01 PM
+Temperature: 69 F
+Humidity: 42.6 %
+
+
+December 27, 2021 2:21 PM
+Temperature: 69 F
+Humidity: 42.8 %
+
+
+December 27, 2021 2:41 PM
+Temperature: 68 F
+Humidity: 43.0 %
+
+
+December 27, 2021 3:01 PM
+Temperature: 68 F
+Humidity: 43.3 %
+
+
+December 27, 2021 3:21 PM
+Temperature: 68 F
+Humidity: 42.9 %
+
+
+December 27, 2021 3:41 PM
+Temperature: 70 F
+Humidity: 42.8 %
+
+
+December 27, 2021 4:01 PM
+Temperature: 69 F
+Humidity: 43.7 %
+
+
+December 27, 2021 4:21 PM
+Temperature: 68 F
+Humidity: 44.3 %
+
+
+December 27, 2021 4:41 PM
+Temperature: 68 F
+Humidity: 44.7 %
+
+
+December 27, 2021 5:01 PM
+Temperature: 68 F
+Humidity: 45.2 %
+
+
+December 27, 2021 5:21 PM
+Temperature: 68 F
+Humidity: 45.4 %
+
+
+December 27, 2021 5:41 PM
+Temperature: 69 F
+Humidity: 43.7 %
+
+
+December 27, 2021 6:01 PM
+Temperature: 69 F
+Humidity: 44.2 %
+
+
+December 27, 2021 6:21 PM
+Temperature: 68 F
+Humidity: 44.2 %
+
+
+December 27, 2021 6:41 PM
+Temperature: 68 F
+Humidity: 44.8 %
+
+
+December 27, 2021 7:01 PM
+Temperature: 67 F
+Humidity: 45.2 %
+
+
+December 27, 2021 7:21 PM
+Temperature: 68 F
+Humidity: 45.3 %
+
+
+December 27, 2021 7:41 PM
+Temperature: 69 F
+Humidity: 44.3 %
+
+
+December 27, 2021 8:01 PM
+Temperature: 68 F
+Humidity: 44.3 %
+
+
+December 27, 2021 8:21 PM
+Temperature: 67 F
+Humidity: 44.7 %
+
+
+December 27, 2021 8:41 PM
+Temperature: 67 F
+Humidity: 45.1 %
+
+
+December 27, 2021 9:01 PM
+Temperature: 66 F
+Humidity: 45.4 %
+
+
+December 27, 2021 9:21 PM
+Temperature: 68 F
+Humidity: 44.2 %
+
+
+December 27, 2021 9:41 PM
+Temperature: 67 F
+Humidity: 45.1 %
+
+
+December 27, 2021 10:01 PM
+Temperature: 67 F
+Humidity: 45.4 %
+
+
+December 27, 2021 10:21 PM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+December 27, 2021 10:41 PM
+Temperature: 66 F
+Humidity: 46.3 %
+
+
+December 27, 2021 11:01 PM
+Temperature: 66 F
+Humidity: 46.1 %
+
+
+December 27, 2021 11:21 PM
+Temperature: 68 F
+Humidity: 44.0 %
+
+
+December 27, 2021 11:41 PM
+Temperature: 67 F
+Humidity: 44.9 %
+
+
+December 28, 2021 12:01 AM
+Temperature: 67 F
+Humidity: 44.6 %
+
+
+December 28, 2021 12:21 AM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+December 28, 2021 12:41 AM
+Temperature: 66 F
+Humidity: 45.2 %
+
+
+December 28, 2021 1:01 AM
+Temperature: 65 F
+Humidity: 45.4 %
+
+
+December 28, 2021 1:21 AM
+Temperature: 67 F
+Humidity: 44.1 %
+
+
+December 28, 2021 1:41 AM
+Temperature: 67 F
+Humidity: 44.5 %
+
+
+December 28, 2021 2:01 AM
+Temperature: 66 F
+Humidity: 44.8 %
+
+
+December 28, 2021 2:21 AM
+Temperature: 66 F
+Humidity: 45.2 %
+
+
+December 28, 2021 2:41 AM
+Temperature: 65 F
+Humidity: 45.4 %
+
+
+December 28, 2021 3:01 AM
+Temperature: 65 F
+Humidity: 45.7 %
+
+
+December 28, 2021 3:21 AM
+Temperature: 67 F
+Humidity: 43.8 %
+
+
+December 28, 2021 3:41 AM
+Temperature: 66 F
+Humidity: 44.8 %
+
+
+December 28, 2021 4:01 AM
+Temperature: 66 F
+Humidity: 45.0 %
+
+
+December 28, 2021 4:21 AM
+Temperature: 66 F
+Humidity: 46.1 %
+
+
+December 28, 2021 4:41 AM
+Temperature: 65 F
+Humidity: 46.4 %
+
+
+December 28, 2021 5:01 AM
+Temperature: 65 F
+Humidity: 46.1 %
+
+
+December 28, 2021 5:21 AM
+Temperature: 67 F
+Humidity: 44.4 %
+
+
+December 28, 2021 5:41 AM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+December 28, 2021 6:01 AM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+December 28, 2021 6:21 AM
+Temperature: 66 F
+Humidity: 45.7 %
+
+
+December 28, 2021 6:41 AM
+Temperature: 65 F
+Humidity: 45.8 %
+
+
+December 28, 2021 7:01 AM
+Temperature: 65 F
+Humidity: 45.4 %
+
+
+December 28, 2021 7:21 AM
+Temperature: 67 F
+Humidity: 43.5 %
+
+
+December 28, 2021 7:41 AM
+Temperature: 67 F
+Humidity: 43.8 %
+
+
+December 28, 2021 8:01 AM
+Temperature: 68 F
+Humidity: 43.4 %
+
+
+December 28, 2021 8:21 AM
+Temperature: 68 F
+Humidity: 42.6 %
+
+
+December 28, 2021 8:41 AM
+Temperature: 68 F
+Humidity: 42.7 %
+
+
+December 28, 2021 9:01 AM
+Temperature: 68 F
+Humidity: 42.0 %
+
+
+December 28, 2021 9:21 AM
+Temperature: 67 F
+Humidity: 42.0 %
+
+
+December 28, 2021 9:41 AM
+Temperature: 69 F
+Humidity: 40.5 %
+
+
+December 28, 2021 10:01 AM
+Temperature: 69 F
+Humidity: 40.8 %
+
+
+December 28, 2021 10:21 AM
+Temperature: 68 F
+Humidity: 41.1 %
+
+
+December 28, 2021 10:41 AM
+Temperature: 68 F
+Humidity: 41.4 %
+
+
+December 28, 2021 11:01 AM
+Temperature: 68 F
+Humidity: 41.4 %
+
+
+December 28, 2021 11:21 AM
+Temperature: 68 F
+Humidity: 41.4 %
+
+
+December 28, 2021 11:41 AM
+Temperature: 69 F
+Humidity: 40.4 %
+
+
+December 28, 2021 12:01 PM
+Temperature: 69 F
+Humidity: 40.1 %
+
+
+December 28, 2021 12:21 PM
+Temperature: 69 F
+Humidity: 40.9 %
+
+
+December 28, 2021 12:41 PM
+Temperature: 68 F
+Humidity: 41.3 %
+
+
+December 28, 2021 1:01 PM
+Temperature: 68 F
+Humidity: 41.3 %
+
+
+December 28, 2021 1:21 PM
+Temperature: 68 F
+Humidity: 41.6 %
+
+
+December 28, 2021 1:41 PM
+Temperature: 67 F
+Humidity: 41.4 %
+
+
+December 28, 2021 2:01 PM
+Temperature: 68 F
+Humidity: 41.1 %
+
+
+December 28, 2021 2:21 PM
+Temperature: 69 F
+Humidity: 40.0 %
+
+
+December 28, 2021 2:41 PM
+Temperature: 68 F
+Humidity: 40.7 %
+
+
+December 28, 2021 3:01 PM
+Temperature: 68 F
+Humidity: 42.8 %
+
+
+December 28, 2021 3:21 PM
+Temperature: 68 F
+Humidity: 43.5 %
+
+
+December 28, 2021 3:41 PM
+Temperature: 68 F
+Humidity: 44.4 %
+
+
+December 28, 2021 4:01 PM
+Temperature: 67 F
+Humidity: 44.0 %
+
+
+December 28, 2021 4:21 PM
+Temperature: 68 F
+Humidity: 43.1 %
+
+
+December 28, 2021 4:41 PM
+Temperature: 69 F
+Humidity: 41.8 %
+
+
+December 28, 2021 5:01 PM
+Temperature: 68 F
+Humidity: 42.7 %
+
+
+December 28, 2021 5:21 PM
+Temperature: 67 F
+Humidity: 42.4 %
+
+
+December 28, 2021 5:41 PM
+Temperature: 67 F
+Humidity: 42.6 %
+
+
+December 28, 2021 6:01 PM
+Temperature: 67 F
+Humidity: 42.7 %
+
+
+December 28, 2021 6:21 PM
+Temperature: 68 F
+Humidity: 41.6 %
+
+
+December 28, 2021 6:41 PM
+Temperature: 69 F
+Humidity: 42.1 %
+
+
+December 28, 2021 7:01 PM
+Temperature: 68 F
+Humidity: 42.4 %
+
+
+December 28, 2021 7:21 PM
+Temperature: 68 F
+Humidity: 42.4 %
+
+
+December 28, 2021 7:41 PM
+Temperature: 67 F
+Humidity: 42.6 %
+
+
+December 28, 2021 8:01 PM
+Temperature: 67 F
+Humidity: 42.7 %
+
+
+December 28, 2021 8:21 PM
+Temperature: 67 F
+Humidity: 43.6 %
+
+
+December 28, 2021 8:41 PM
+Temperature: 69 F
+Humidity: 41.2 %
+
+
+December 28, 2021 9:01 PM
+Temperature: 68 F
+Humidity: 42.1 %
+
+
+December 28, 2021 9:21 PM
+Temperature: 68 F
+Humidity: 42.3 %
+
+
+December 28, 2021 9:41 PM
+Temperature: 67 F
+Humidity: 42.3 %
+
+
+December 28, 2021 10:01 PM
+Temperature: 67 F
+Humidity: 42.7 %
+
+
+December 28, 2021 10:21 PM
+Temperature: 66 F
+Humidity: 43.2 %
+
+
+December 28, 2021 10:41 PM
+Temperature: 68 F
+Humidity: 41.8 %
+
+
+December 28, 2021 11:01 PM
+Temperature: 67 F
+Humidity: 42.6 %
+
+
+December 28, 2021 11:21 PM
+Temperature: 67 F
+Humidity: 42.9 %
+
+
+December 28, 2021 11:41 PM
+Temperature: 66 F
+Humidity: 43.1 %
+
+
+December 29, 2021 12:01 AM
+Temperature: 66 F
+Humidity: 43.3 %
+
+
+December 29, 2021 12:21 AM
+Temperature: 66 F
+Humidity: 43.3 %
+
+
+December 29, 2021 12:41 AM
+Temperature: 67 F
+Humidity: 42.2 %
+
+
+December 29, 2021 1:01 AM
+Temperature: 66 F
+Humidity: 43.3 %
+
+
+December 29, 2021 1:21 AM
+Temperature: 66 F
+Humidity: 42.9 %
+
+
+December 29, 2021 1:41 AM
+Temperature: 65 F
+Humidity: 43.7 %
+
+
+December 29, 2021 2:01 AM
+Temperature: 65 F
+Humidity: 43.9 %
+
+
+December 29, 2021 2:21 AM
+Temperature: 66 F
+Humidity: 42.9 %
+
+
+December 29, 2021 2:41 AM
+Temperature: 67 F
+Humidity: 42.7 %
+
+
+December 29, 2021 3:01 AM
+Temperature: 66 F
+Humidity: 43.4 %
+
+
+December 29, 2021 3:21 AM
+Temperature: 66 F
+Humidity: 43.7 %
+
+
+December 29, 2021 3:41 AM
+Temperature: 65 F
+Humidity: 43.9 %
+
+
+December 29, 2021 4:01 AM
+Temperature: 65 F
+Humidity: 44.2 %
+
+
+December 29, 2021 4:21 AM
+Temperature: 67 F
+Humidity: 42.6 %
+
+
+December 29, 2021 4:41 AM
+Temperature: 67 F
+Humidity: 43.3 %
+
+
+December 29, 2021 5:01 AM
+Temperature: 66 F
+Humidity: 43.6 %
+
+
+December 29, 2021 5:21 AM
+Temperature: 66 F
+Humidity: 43.9 %
+
+
+December 29, 2021 5:41 AM
+Temperature: 66 F
+Humidity: 44.0 %
+
+
+December 29, 2021 6:01 AM
+Temperature: 66 F
+Humidity: 44.0 %
+
+
+December 29, 2021 6:21 AM
+Temperature: 65 F
+Humidity: 44.3 %
+
+
+December 29, 2021 6:41 AM
+Temperature: 66 F
+Humidity: 46.1 %
+
+
+December 29, 2021 7:01 AM
+Temperature: 68 F
+Humidity: 44.1 %
+
+
+December 29, 2021 7:21 AM
+Temperature: 68 F
+Humidity: 42.7 %
+
+
+December 29, 2021 7:41 AM
+Temperature: 68 F
+Humidity: 42.5 %
+
+
+December 29, 2021 8:01 AM
+Temperature: 68 F
+Humidity: 43.3 %
+
+
+December 29, 2021 8:21 AM
+Temperature: 68 F
+Humidity: 44.7 %
+
+
+December 29, 2021 8:41 AM
+Temperature: 68 F
+Humidity: 44.6 %
+
+
+December 29, 2021 9:01 AM
+Temperature: 68 F
+Humidity: 44.3 %
+
+
+December 29, 2021 9:21 AM
+Temperature: 68 F
+Humidity: 43.8 %
+
+
+December 29, 2021 9:41 AM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 29, 2021 10:01 AM
+Temperature: 69 F
+Humidity: 43.8 %
+
+
+December 29, 2021 10:21 AM
+Temperature: 69 F
+Humidity: 44.5 %
+
+
+December 29, 2021 10:41 AM
+Temperature: 69 F
+Humidity: 44.3 %
+
+
+December 29, 2021 11:01 AM
+Temperature: 69 F
+Humidity: 44.6 %
+
+
+December 29, 2021 11:21 AM
+Temperature: 68 F
+Humidity: 44.3 %
+
+
+December 29, 2021 11:41 AM
+Temperature: 68 F
+Humidity: 43.8 %
+
+
+December 29, 2021 12:01 PM
+Temperature: 68 F
+Humidity: 44.2 %
+
+
+December 29, 2021 12:21 PM
+Temperature: 68 F
+Humidity: 44.3 %
+
+
+December 29, 2021 12:41 PM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 29, 2021 1:01 PM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 29, 2021 1:21 PM
+Temperature: 69 F
+Humidity: 43.5 %
+
+
+December 29, 2021 1:41 PM
+Temperature: 68 F
+Humidity: 43.5 %
+
+
+December 29, 2021 2:01 PM
+Temperature: 68 F
+Humidity: 43.6 %
+
+
+December 29, 2021 2:21 PM
+Temperature: 68 F
+Humidity: 44.1 %
+
+
+December 29, 2021 2:41 PM
+Temperature: 68 F
+Humidity: 44.6 %
+
+
+December 29, 2021 3:01 PM
+Temperature: 68 F
+Humidity: 44.9 %
+
+
+December 29, 2021 3:21 PM
+Temperature: 69 F
+Humidity: 43.5 %
+
+
+December 29, 2021 3:41 PM
+Temperature: 69 F
+Humidity: 44.2 %
+
+
+December 29, 2021 4:01 PM
+Temperature: 68 F
+Humidity: 44.5 %
+
+
+December 29, 2021 4:21 PM
+Temperature: 68 F
+Humidity: 44.2 %
+
+
+December 29, 2021 4:41 PM
+Temperature: 68 F
+Humidity: 44.1 %
+
+
+December 29, 2021 5:01 PM
+Temperature: 67 F
+Humidity: 44.2 %
+
+
+December 29, 2021 5:21 PM
+Temperature: 67 F
+Humidity: 44.2 %
+
+
+December 29, 2021 5:41 PM
+Temperature: 67 F
+Humidity: 44.1 %
+
+
+December 29, 2021 6:01 PM
+Temperature: 67 F
+Humidity: 44.1 %
+
+
+December 29, 2021 6:21 PM
+Temperature: 69 F
+Humidity: 42.5 %
+
+
+December 29, 2021 6:41 PM
+Temperature: 68 F
+Humidity: 42.9 %
+
+
+December 29, 2021 7:01 PM
+Temperature: 67 F
+Humidity: 43.1 %
+
+
+December 29, 2021 7:21 PM
+Temperature: 67 F
+Humidity: 43.3 %
+
+
+December 29, 2021 7:41 PM
+Temperature: 67 F
+Humidity: 45.5 %
+
+
+December 29, 2021 8:01 PM
+Temperature: 67 F
+Humidity: 44.8 %
+
+
+December 29, 2021 8:21 PM
+Temperature: 67 F
+Humidity: 44.8 %
+
+
+December 29, 2021 8:41 PM
+Temperature: 68 F
+Humidity: 43.4 %
+
+
+December 29, 2021 9:01 PM
+Temperature: 68 F
+Humidity: 43.1 %
+
+
+December 29, 2021 9:21 PM
+Temperature: 67 F
+Humidity: 43.5 %
+
+
+December 29, 2021 9:41 PM
+Temperature: 67 F
+Humidity: 43.6 %
+
+
+December 29, 2021 10:01 PM
+Temperature: 67 F
+Humidity: 43.7 %
+
+
+December 29, 2021 10:21 PM
+Temperature: 67 F
+Humidity: 43.6 %
+
+
+December 29, 2021 10:41 PM
+Temperature: 66 F
+Humidity: 43.7 %
+
+
+December 29, 2021 11:01 PM
+Temperature: 68 F
+Humidity: 43.2 %
+
+
+December 29, 2021 11:21 PM
+Temperature: 68 F
+Humidity: 42.9 %
+
+
+December 29, 2021 11:41 PM
+Temperature: 68 F
+Humidity: 43.0 %
+
+
+December 30, 2021 12:01 AM
+Temperature: 67 F
+Humidity: 43.0 %
+
+
+December 30, 2021 12:21 AM
+Temperature: 67 F
+Humidity: 43.5 %
+
+
+December 30, 2021 12:41 AM
+Temperature: 67 F
+Humidity: 43.6 %
+
+
+December 30, 2021 1:01 AM
+Temperature: 66 F
+Humidity: 43.7 %
+
+
+December 30, 2021 1:21 AM
+Temperature: 67 F
+Humidity: 43.1 %
+
+
+December 30, 2021 1:41 AM
+Temperature: 67 F
+Humidity: 43.8 %
+
+
+December 30, 2021 2:01 AM
+Temperature: 67 F
+Humidity: 44.9 %
+
+
+December 30, 2021 2:21 AM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+December 30, 2021 2:41 AM
+Temperature: 66 F
+Humidity: 45.7 %
+
+
+December 30, 2021 3:01 AM
+Temperature: 65 F
+Humidity: 46.3 %
+
+
+December 30, 2021 3:21 AM
+Temperature: 65 F
+Humidity: 46.4 %
+
+
+December 30, 2021 3:41 AM
+Temperature: 67 F
+Humidity: 44.6 %
+
+
+December 30, 2021 4:01 AM
+Temperature: 67 F
+Humidity: 45.2 %
+
+
+December 30, 2021 4:21 AM
+Temperature: 67 F
+Humidity: 45.3 %
+
+
+December 30, 2021 4:41 AM
+Temperature: 66 F
+Humidity: 45.6 %
+
+
+December 30, 2021 5:01 AM
+Temperature: 66 F
+Humidity: 46.2 %
+
+
+December 30, 2021 5:21 AM
+Temperature: 66 F
+Humidity: 46.4 %
+
+
+December 30, 2021 5:41 AM
+Temperature: 66 F
+Humidity: 46.4 %
+
+
+December 30, 2021 6:01 AM
+Temperature: 65 F
+Humidity: 46.4 %
+
+
+December 30, 2021 6:21 AM
+Temperature: 66 F
+Humidity: 46.0 %
+
+
+December 30, 2021 6:41 AM
+Temperature: 67 F
+Humidity: 44.9 %
+
+
+December 30, 2021 7:01 AM
+Temperature: 67 F
+Humidity: 45.6 %
+
+
+December 30, 2021 7:21 AM
+Temperature: 67 F
+Humidity: 46.3 %
+
+
+December 30, 2021 7:41 AM
+Temperature: 67 F
+Humidity: 45.4 %
+
+
+December 30, 2021 8:01 AM
+Temperature: 68 F
+Humidity: 44.7 %
+
+
+December 30, 2021 8:21 AM
+Temperature: 67 F
+Humidity: 44.6 %
+
+
+December 30, 2021 8:41 AM
+Temperature: 67 F
+Humidity: 44.6 %
+
+
+December 30, 2021 9:01 AM
+Temperature: 67 F
+Humidity: 44.2 %
+
+
+December 30, 2021 9:21 AM
+Temperature: 67 F
+Humidity: 45.2 %
+
+
+December 30, 2021 9:41 AM
+Temperature: 67 F
+Humidity: 45.6 %
+
+
+December 30, 2021 10:01 AM
+Temperature: 69 F
+Humidity: 45.1 %
+
+
+December 30, 2021 10:21 AM
+Temperature: 69 F
+Humidity: 44.9 %
+
+
+December 30, 2021 10:41 AM
+Temperature: 68 F
+Humidity: 44.6 %
+
+
+December 30, 2021 11:01 AM
+Temperature: 68 F
+Humidity: 44.6 %
+
+
+December 30, 2021 11:21 AM
+Temperature: 68 F
+Humidity: 44.9 %
+
+
+December 30, 2021 11:41 AM
+Temperature: 68 F
+Humidity: 44.9 %
+
+
+December 30, 2021 12:01 PM
+Temperature: 68 F
+Humidity: 45.0 %
+
+
+December 30, 2021 12:21 PM
+Temperature: 68 F
+Humidity: 44.6 %
+
+
+December 30, 2021 12:41 PM
+Temperature: 67 F
+Humidity: 44.7 %
+
+
+December 30, 2021 1:01 PM
+Temperature: 67 F
+Humidity: 44.7 %
+
+
+December 30, 2021 1:21 PM
+Temperature: 68 F
+Humidity: 43.9 %
+
+
+December 30, 2021 1:41 PM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 30, 2021 2:01 PM
+Temperature: 68 F
+Humidity: 43.9 %
+
+
+December 30, 2021 2:21 PM
+Temperature: 68 F
+Humidity: 44.1 %
+
+
+December 30, 2021 2:41 PM
+Temperature: 68 F
+Humidity: 44.6 %
+
+
+December 30, 2021 3:01 PM
+Temperature: 67 F
+Humidity: 44.5 %
+
+
+December 30, 2021 3:21 PM
+Temperature: 67 F
+Humidity: 45.2 %
+
+
+December 30, 2021 3:41 PM
+Temperature: 67 F
+Humidity: 52.0 %
+
+
+December 30, 2021 4:01 PM
+Temperature: 67 F
+Humidity: 51.5 %
+
+
+December 30, 2021 4:21 PM
+Temperature: 67 F
+Humidity: 50.6 %
+
+
+December 30, 2021 4:41 PM
+Temperature: 69 F
+Humidity: 49.2 %
+
+
+December 30, 2021 5:01 PM
+Temperature: 68 F
+Humidity: 48.1 %
+
+
+December 30, 2021 5:21 PM
+Temperature: 68 F
+Humidity: 48.0 %
+
+
+December 30, 2021 5:41 PM
+Temperature: 68 F
+Humidity: 47.8 %
+
+
+December 30, 2021 6:01 PM
+Temperature: 67 F
+Humidity: 47.6 %
+
+
+December 30, 2021 6:21 PM
+Temperature: 67 F
+Humidity: 47.7 %
+
+
+December 30, 2021 6:41 PM
+Temperature: 67 F
+Humidity: 47.7 %
+
+
+December 30, 2021 7:01 PM
+Temperature: 68 F
+Humidity: 46.4 %
+
+
+December 30, 2021 7:21 PM
+Temperature: 68 F
+Humidity: 46.2 %
+
+
+December 30, 2021 7:41 PM
+Temperature: 67 F
+Humidity: 46.7 %
+
+
+December 30, 2021 8:01 PM
+Temperature: 67 F
+Humidity: 46.8 %
+
+
+December 30, 2021 8:21 PM
+Temperature: 67 F
+Humidity: 46.7 %
+
+
+December 30, 2021 8:41 PM
+Temperature: 66 F
+Humidity: 46.8 %
+
+
+December 30, 2021 9:01 PM
+Temperature: 66 F
+Humidity: 47.0 %
+
+
+December 30, 2021 9:21 PM
+Temperature: 65 F
+Humidity: 47.3 %
+
+
+December 30, 2021 9:41 PM
+Temperature: 67 F
+Humidity: 46.1 %
+
+
+December 30, 2021 10:01 PM
+Temperature: 67 F
+Humidity: 46.6 %
+
+
+December 30, 2021 10:21 PM
+Temperature: 66 F
+Humidity: 46.7 %
+
+
+December 30, 2021 10:41 PM
+Temperature: 66 F
+Humidity: 46.7 %
+
+
+December 30, 2021 11:01 PM
+Temperature: 66 F
+Humidity: 46.9 %
+
+
+December 30, 2021 11:21 PM
+Temperature: 65 F
+Humidity: 46.8 %
+
+
+December 30, 2021 11:41 PM
+Temperature: 65 F
+Humidity: 46.5 %
+
+
+December 31, 2021 12:01 AM
+Temperature: 66 F
+Humidity: 46.1 %
+
+
+December 31, 2021 12:21 AM
+Temperature: 67 F
+Humidity: 46.0 %
+
+
+December 31, 2021 12:41 AM
+Temperature: 66 F
+Humidity: 46.0 %
+
+
+December 31, 2021 1:01 AM
+Temperature: 66 F
+Humidity: 45.9 %
+
+
+December 31, 2021 1:21 AM
+Temperature: 66 F
+Humidity: 45.8 %
+
+
+December 31, 2021 1:41 AM
+Temperature: 65 F
+Humidity: 45.7 %
+
+
+December 31, 2021 2:01 AM
+Temperature: 65 F
+Humidity: 45.9 %
+
+
+December 31, 2021 2:21 AM
+Temperature: 65 F
+Humidity: 46.0 %
+
+
+December 31, 2021 2:41 AM
+Temperature: 67 F
+Humidity: 45.2 %
+
+
+December 31, 2021 3:01 AM
+Temperature: 66 F
+Humidity: 45.8 %
+
+
+December 31, 2021 3:21 AM
+Temperature: 66 F
+Humidity: 45.7 %
+
+
+December 31, 2021 3:41 AM
+Temperature: 66 F
+Humidity: 46.7 %
+
+
+December 31, 2021 4:01 AM
+Temperature: 65 F
+Humidity: 47.6 %
+
+
+December 31, 2021 4:21 AM
+Temperature: 66 F
+Humidity: 49.6 %
+
+
+December 31, 2021 4:41 AM
+Temperature: 67 F
+Humidity: 50.1 %
+
+
+December 31, 2021 5:01 AM
+Temperature: 67 F
+Humidity: 49.4 %
+
+
+December 31, 2021 5:21 AM
+Temperature: 67 F
+Humidity: 50.4 %
+
+
+December 31, 2021 5:41 AM
+Temperature: 67 F
+Humidity: 50.3 %
+
+
+December 31, 2021 6:01 AM
+Temperature: 69 F
+Humidity: 49.6 %
+
+
+December 31, 2021 6:21 AM
+Temperature: 68 F
+Humidity: 48.8 %
+
+
+December 31, 2021 6:41 AM
+Temperature: 68 F
+Humidity: 48.7 %
+
+
+December 31, 2021 7:01 AM
+Temperature: 68 F
+Humidity: 48.2 %
+
+
+December 31, 2021 7:21 AM
+Temperature: 68 F
+Humidity: 47.8 %
+
+
+December 31, 2021 7:41 AM
+Temperature: 68 F
+Humidity: 47.3 %
+
+
+December 31, 2021 8:01 AM
+Temperature: 68 F
+Humidity: 47.6 %
+
+
+December 31, 2021 8:21 AM
+Temperature: 68 F
+Humidity: 47.9 %
+
+
+December 31, 2021 8:41 AM
+Temperature: 68 F
+Humidity: 47.5 %
+
+
+December 31, 2021 9:01 AM
+Temperature: 68 F
+Humidity: 47.1 %
+
+
+December 31, 2021 9:21 AM
+Temperature: 68 F
+Humidity: 46.8 %
+
+
+December 31, 2021 9:41 AM
+Temperature: 70 F
+Humidity: 44.7 %
+
+
+December 31, 2021 10:01 AM
+Temperature: 69 F
+Humidity: 45.1 %
+
+
+December 31, 2021 10:21 AM
+Temperature: 68 F
+Humidity: 45.5 %
+
+
+December 31, 2021 10:41 AM
+Temperature: 68 F
+Humidity: 45.5 %
+
+
+December 31, 2021 11:01 AM
+Temperature: 68 F
+Humidity: 45.1 %
+
+
+December 31, 2021 11:21 AM
+Temperature: 68 F
+Humidity: 45.2 %
+
+
+December 31, 2021 11:41 AM
+Temperature: 67 F
+Humidity: 45.4 %
+
+
+December 31, 2021 12:01 PM
+Temperature: 67 F
+Humidity: 45.4 %
+
+
+December 31, 2021 12:21 PM
+Temperature: 69 F
+Humidity: 43.2 %
+
+
+December 31, 2021 12:41 PM
+Temperature: 68 F
+Humidity: 44.1 %
+
+
+December 31, 2021 1:01 PM
+Temperature: 68 F
+Humidity: 44.2 %
+
+
+December 31, 2021 1:21 PM
+Temperature: 68 F
+Humidity: 44.4 %
+
+
+December 31, 2021 1:41 PM
+Temperature: 67 F
+Humidity: 44.6 %
+
+
+December 31, 2021 2:01 PM
+Temperature: 67 F
+Humidity: 46.2 %
+
+
+December 31, 2021 2:21 PM
+Temperature: 67 F
+Humidity: 47.0 %
+
+
+December 31, 2021 2:41 PM
+Temperature: 68 F
+Humidity: 46.9 %
+
+
+December 31, 2021 3:01 PM
+Temperature: 68 F
+Humidity: 45.8 %
+
+
+December 31, 2021 3:21 PM
+Temperature: 68 F
+Humidity: 46.1 %
+
+
+December 31, 2021 3:41 PM
+Temperature: 67 F
+Humidity: 47.6 %
+
+
+December 31, 2021 4:01 PM
+Temperature: 67 F
+Humidity: 47.3 %
+
+
+December 31, 2021 4:21 PM
+Temperature: 67 F
+Humidity: 46.5 %
+
+
+December 31, 2021 4:41 PM
+Temperature: 67 F
+Humidity: 46.5 %
+
+
+December 31, 2021 5:01 PM
+Temperature: 68 F
+Humidity: 44.8 %
+
+
+December 31, 2021 5:21 PM
+Temperature: 68 F
+Humidity: 45.6 %
+
+
+December 31, 2021 5:41 PM
+Temperature: 67 F
+Humidity: 45.4 %
+
+
+December 31, 2021 6:01 PM
+Temperature: 67 F
+Humidity: 45.9 %
+
+
+December 31, 2021 6:21 PM
+Temperature: 66 F
+Humidity: 46.2 %
+
+
+December 31, 2021 6:41 PM
+Temperature: 68 F
+Humidity: 45.2 %
+
+
+December 31, 2021 7:01 PM
+Temperature: 67 F
+Humidity: 44.5 %
+
+
+December 31, 2021 7:21 PM
+Temperature: 67 F
+Humidity: 44.4 %
+
+
+December 31, 2021 7:41 PM
+Temperature: 66 F
+Humidity: 44.6 %
+
+
+December 31, 2021 8:01 PM
+Temperature: 65 F
+Humidity: 44.8 %
+
+
+December 31, 2021 8:21 PM
+Temperature: 65 F
+Humidity: 44.7 %
+
+
+December 31, 2021 8:41 PM
+Temperature: 67 F
+Humidity: 43.9 %
+
+
+December 31, 2021 9:01 PM
+Temperature: 66 F
+Humidity: 44.6 %
+
+
+December 31, 2021 9:21 PM
+Temperature: 65 F
+Humidity: 44.7 %
+
+
+December 31, 2021 9:41 PM
+Temperature: 65 F
+Humidity: 44.8 %
+
+
+December 31, 2021 10:01 PM
+Temperature: 64 F
+Humidity: 45.1 %
+
+
+December 31, 2021 10:21 PM
+Temperature: 66 F
+Humidity: 44.0 %
+
+
+December 31, 2021 10:41 PM
+Temperature: 65 F
+Humidity: 44.7 %
+
+
+December 31, 2021 11:01 PM
+Temperature: 65 F
+Humidity: 44.7 %
+
+
+December 31, 2021 11:21 PM
+Temperature: 64 F
+Humidity: 44.8 %
+
+
+December 31, 2021 11:41 PM
+Temperature: 64 F
+Humidity: 45.0 %
+
+
+January 1, 2022 12:01 AM
+Temperature: 64 F
+Humidity: 44.5 %
+
+
+January 1, 2022 12:21 AM
+Temperature: 65 F
+Humidity: 44.2 %
+
+
+January 1, 2022 12:41 AM
+Temperature: 65 F
+Humidity: 44.6 %
+
+
+January 1, 2022 1:01 AM
+Temperature: 64 F
+Humidity: 44.7 %
+
+
+January 1, 2022 1:21 AM
+Temperature: 63 F
+Humidity: 44.8 %
+
+
+January 1, 2022 1:41 AM
+Temperature: 64 F
+Humidity: 44.4 %
+
+
+January 1, 2022 2:01 AM
+Temperature: 65 F
+Humidity: 43.2 %
+
+
+January 1, 2022 2:21 AM
+Temperature: 64 F
+Humidity: 44.4 %
+
+
+January 1, 2022 2:41 AM
+Temperature: 64 F
+Humidity: 44.5 %
+
+
+January 1, 2022 3:01 AM
+Temperature: 63 F
+Humidity: 44.7 %
+
+
+January 1, 2022 3:21 AM
+Temperature: 63 F
+Humidity: 44.7 %
+
+
+January 1, 2022 3:41 AM
+Temperature: 65 F
+Humidity: 44.6 %
+
+
+January 1, 2022 4:01 AM
+Temperature: 64 F
+Humidity: 46.0 %
+
+
+January 1, 2022 4:21 AM
+Temperature: 64 F
+Humidity: 46.2 %
+
+
+January 1, 2022 4:41 AM
+Temperature: 64 F
+Humidity: 48.2 %
+
+
+January 1, 2022 5:01 AM
+Temperature: 64 F
+Humidity: 49.2 %
+
+
+January 1, 2022 5:21 AM
+Temperature: 64 F
+Humidity: 48.6 %
+
+
+January 1, 2022 5:41 AM
+Temperature: 64 F
+Humidity: 47.0 %
+
+
+January 1, 2022 6:01 AM
+Temperature: 64 F
+Humidity: 49.0 %
+
+
+January 1, 2022 6:21 AM
+Temperature: 66 F
+Humidity: 45.3 %
+
+
+January 1, 2022 6:41 AM
+Temperature: 66 F
+Humidity: 46.5 %
+
+
+January 1, 2022 7:01 AM
+Temperature: 67 F
+Humidity: 46.1 %
+
+
+January 1, 2022 7:21 AM
+Temperature: 67 F
+Humidity: 45.4 %
+
+
+January 1, 2022 7:41 AM
+Temperature: 67 F
+Humidity: 44.5 %
+
+
+January 1, 2022 8:01 AM
+Temperature: 67 F
+Humidity: 43.5 %
+
+
+January 1, 2022 8:21 AM
+Temperature: 67 F
+Humidity: 42.6 %
+
+
+January 1, 2022 8:41 AM
+Temperature: 66 F
+Humidity: 42.9 %
+
+
+January 1, 2022 9:01 AM
+Temperature: 69 F
+Humidity: 40.9 %
+
+
+January 1, 2022 9:21 AM
+Temperature: 68 F
+Humidity: 41.8 %
+
+
+January 1, 2022 9:41 AM
+Temperature: 68 F
+Humidity: 42.8 %
+
+
+January 1, 2022 10:01 AM
+Temperature: 68 F
+Humidity: 43.0 %
+
+
+January 1, 2022 10:21 AM
+Temperature: 67 F
+Humidity: 43.7 %
+
+
+January 1, 2022 10:41 AM
+Temperature: 67 F
+Humidity: 44.4 %
+
+
+January 1, 2022 11:01 AM
+Temperature: 66 F
+Humidity: 45.0 %
+
+
+January 1, 2022 11:21 AM
+Temperature: 67 F
+Humidity: 47.2 %
+
+
+January 1, 2022 11:41 AM
+Temperature: 68 F
+Humidity: 44.4 %
+
+
+January 1, 2022 12:01 PM
+Temperature: 67 F
+Humidity: 45.5 %
+
+
+January 1, 2022 12:21 PM
+Temperature: 67 F
+Humidity: 46.9 %
+
+
+January 1, 2022 12:41 PM
+Temperature: 67 F
+Humidity: 47.7 %
+
+
+January 1, 2022 1:01 PM
+Temperature: 66 F
+Humidity: 48.6 %
+
+
+January 1, 2022 1:21 PM
+Temperature: 66 F
+Humidity: 49.5 %
+
+
+January 1, 2022 1:41 PM
+Temperature: 66 F
+Humidity: 49.3 %
+
+
+January 1, 2022 2:01 PM
+Temperature: 68 F
+Humidity: 46.1 %
+
+
+January 1, 2022 2:21 PM
+Temperature: 67 F
+Humidity: 46.1 %
+
+
+January 1, 2022 2:41 PM
+Temperature: 67 F
+Humidity: 43.6 %
+
+
+January 1, 2022 3:01 PM
+Temperature: 68 F
+Humidity: 45.1 %
+
+
+January 1, 2022 3:21 PM
+Temperature: 67 F
+Humidity: 45.1 %
+
+
+January 1, 2022 3:41 PM
+Temperature: 67 F
+Humidity: 46.1 %
+
+
+January 1, 2022 4:01 PM
+Temperature: 66 F
+Humidity: 46.8 %
+
+
+January 1, 2022 4:21 PM
+Temperature: 66 F
+Humidity: 46.9 %
+
+
+January 1, 2022 4:41 PM
+Temperature: 65 F
+Humidity: 47.2 %
+
+
+January 1, 2022 5:01 PM
+Temperature: 65 F
+Humidity: 47.1 %
+
+
+January 1, 2022 5:21 PM
+Temperature: 64 F
+Humidity: 46.9 %
+
+
+January 1, 2022 5:41 PM
+Temperature: 65 F
+Humidity: 45.4 %
+
+
+January 1, 2022 6:01 PM
+Temperature: 66 F
+Humidity: 44.6 %
+
+
+January 1, 2022 6:21 PM
+Temperature: 65 F
+Humidity: 45.6 %
+
+
+January 1, 2022 6:41 PM
+Temperature: 65 F
+Humidity: 45.5 %
+
+
+January 1, 2022 7:01 PM
+Temperature: 64 F
+Humidity: 45.3 %
+
+
+January 1, 2022 7:21 PM
+Temperature: 64 F
+Humidity: 46.3 %
+
+
+January 1, 2022 7:41 PM
+Temperature: 66 F
+Humidity: 43.0 %
+
+
+January 1, 2022 8:01 PM
+Temperature: 67 F
+Humidity: 43.1 %
+
+
+January 1, 2022 8:21 PM
+Temperature: 66 F
+Humidity: 43.6 %
+
+
+January 1, 2022 8:41 PM
+Temperature: 66 F
+Humidity: 43.9 %
+
+
+January 1, 2022 9:01 PM
+Temperature: 65 F
+Humidity: 43.9 %
+
+
+January 1, 2022 9:21 PM
+Temperature: 65 F
+Humidity: 44.4 %
+
+
+January 1, 2022 9:41 PM
+Temperature: 66 F
+Humidity: 42.3 %
+
+
+January 1, 2022 10:01 PM
+Temperature: 66 F
+Humidity: 43.2 %
+
+
+January 1, 2022 10:21 PM
+Temperature: 65 F
+Humidity: 44.1 %
+
+
+January 1, 2022 10:41 PM
+Temperature: 64 F
+Humidity: 44.6 %
+
+
+January 1, 2022 11:01 PM
+Temperature: 64 F
+Humidity: 45.0 %
+
+
+January 1, 2022 11:21 PM
+Temperature: 65 F
+Humidity: 42.7 %
+
+
+January 1, 2022 11:41 PM
+Temperature: 65 F
+Humidity: 43.8 %
+
+
+January 2, 2022 12:01 AM
+Temperature: 64 F
+Humidity: 44.8 %
+
+
+January 2, 2022 12:21 AM
+Temperature: 64 F
+Humidity: 45.0 %
+
+
+January 2, 2022 12:41 AM
+Temperature: 63 F
+Humidity: 45.2 %
+
+
+January 2, 2022 1:01 AM
+Temperature: 65 F
+Humidity: 43.0 %
+
+
+January 2, 2022 1:21 AM
+Temperature: 65 F
+Humidity: 43.5 %
+
+
+January 2, 2022 1:41 AM
+Temperature: 64 F
+Humidity: 44.4 %
+
+
+January 2, 2022 2:01 AM
+Temperature: 64 F
+Humidity: 45.0 %
+
+
+January 2, 2022 2:22 AM
+Temperature: 63 F
+Humidity: 45.0 %
+
+
+January 2, 2022 2:42 AM
+Temperature: 64 F
+Humidity: 42.7 %
+
+
+January 2, 2022 3:02 AM
+Temperature: 65 F
+Humidity: 43.2 %
+
+
+January 2, 2022 3:22 AM
+Temperature: 64 F
+Humidity: 44.1 %
+
+
+January 2, 2022 3:42 AM
+Temperature: 64 F
+Humidity: 44.7 %
+
+
+January 2, 2022 4:02 AM
+Temperature: 63 F
+Humidity: 44.4 %
+
+
+January 2, 2022 4:22 AM
+Temperature: 64 F
+Humidity: 43.5 %
+
+
+January 2, 2022 4:42 AM
+Temperature: 65 F
+Humidity: 43.2 %
+
+
+January 2, 2022 5:02 AM
+Temperature: 64 F
+Humidity: 44.5 %
+
+
+January 2, 2022 5:22 AM
+Temperature: 64 F
+Humidity: 44.7 %
+
+
+January 2, 2022 5:42 AM
+Temperature: 64 F
+Humidity: 44.8 %
+
+
+January 2, 2022 6:02 AM
+Temperature: 64 F
+Humidity: 45.0 %
+
+
+January 2, 2022 6:22 AM
+Temperature: 64 F
+Humidity: 43.8 %
+
+
+January 2, 2022 6:42 AM
+Temperature: 65 F
+Humidity: 43.0 %
+
+
+January 2, 2022 7:02 AM
+Temperature: 65 F
+Humidity: 43.7 %
+
+
+January 2, 2022 7:22 AM
+Temperature: 65 F
+Humidity: 43.7 %
+
+
+January 2, 2022 7:42 AM
+Temperature: 66 F
+Humidity: 42.5 %
+
+
+January 2, 2022 8:02 AM
+Temperature: 66 F
+Humidity: 42.4 %
+
+
+January 2, 2022 8:22 AM
+Temperature: 66 F
+Humidity: 42.3 %
+
+
+January 2, 2022 8:42 AM
+Temperature: 67 F
+Humidity: 41.4 %
+
+
+January 2, 2022 9:02 AM
+Temperature: 68 F
+Humidity: 40.4 %
+
+
+January 2, 2022 9:22 AM
+Temperature: 67 F
+Humidity: 40.9 %
+
+
+January 2, 2022 9:42 AM
+Temperature: 67 F
+Humidity: 40.4 %
+
+
+January 2, 2022 10:02 AM
+Temperature: 67 F
+Humidity: 41.0 %
+
+
+January 2, 2022 10:22 AM
+Temperature: 67 F
+Humidity: 41.1 %
+
+
+January 2, 2022 10:42 AM
+Temperature: 66 F
+Humidity: 41.2 %
+
+
+January 2, 2022 11:02 AM
+Temperature: 68 F
+Humidity: 39.6 %
+
+
+January 2, 2022 11:22 AM
+Temperature: 67 F
+Humidity: 40.1 %
+
+
+January 2, 2022 11:42 AM
+Temperature: 67 F
+Humidity: 40.4 %
+
+
+January 2, 2022 12:02 PM
+Temperature: 67 F
+Humidity: 40.4 %
+
+
+January 2, 2022 12:22 PM
+Temperature: 66 F
+Humidity: 40.6 %
+
+
+January 2, 2022 12:42 PM
+Temperature: 65 F
+Humidity: 40.7 %
+
+
+January 2, 2022 1:02 PM
+Temperature: 67 F
+Humidity: 39.7 %
+
+
+January 2, 2022 1:22 PM
+Temperature: 67 F
+Humidity: 39.8 %
+
+
+January 2, 2022 1:42 PM
+Temperature: 67 F
+Humidity: 40.2 %
+
+
+January 2, 2022 2:02 PM
+Temperature: 67 F
+Humidity: 40.2 %
+
+
+January 2, 2022 2:22 PM
+Temperature: 66 F
+Humidity: 40.5 %
+
+
+January 2, 2022 2:42 PM
+Temperature: 66 F
+Humidity: 41.7 %
+
+
+January 2, 2022 3:02 PM
+Temperature: 67 F
+Humidity: 42.9 %
+
+
+January 2, 2022 3:22 PM
+Temperature: 68 F
+Humidity: 43.0 %
+
+
+January 2, 2022 3:42 PM
+Temperature: 68 F
+Humidity: 43.0 %
+
+
+January 2, 2022 4:02 PM
+Temperature: 67 F
+Humidity: 43.4 %
+
+
+January 2, 2022 4:22 PM
+Temperature: 67 F
+Humidity: 42.3 %
+
+
+January 2, 2022 4:42 PM
+Temperature: 66 F
+Humidity: 44.3 %
+
+
+January 2, 2022 5:02 PM
+Temperature: 66 F
+Humidity: 43.1 %
+
+
+January 2, 2022 5:22 PM
+Temperature: 67 F
+Humidity: 41.6 %
+
+
+January 2, 2022 5:42 PM
+Temperature: 67 F
+Humidity: 41.1 %
+
+
+January 2, 2022 6:02 PM
+Temperature: 66 F
+Humidity: 41.5 %
+
+
+January 2, 2022 6:22 PM
+Temperature: 66 F
+Humidity: 41.6 %
+
+
+January 2, 2022 6:42 PM
+Temperature: 65 F
+Humidity: 41.8 %
+
+
+January 2, 2022 7:02 PM
+Temperature: 65 F
+Humidity: 42.1 %
+
+
+January 2, 2022 7:22 PM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 66 F
+Humidity: 41.1 %
+
+
+January 2, 2022 7:42 PM
+Temperature: 65 F
+Humidity: 42.0 %
+
+
+January 2, 2022 8:02 PM
+Temperature: 65 F
+Humidity: 41.9 %
+
+
+January 2, 2022 8:22 PM
+Temperature: 64 F
+Humidity: 42.0 %
+
+
+January 2, 2022 8:42 PM
+Temperature: 64 F
+Humidity: 42.1 %
+
+
+January 2, 2022 9:02 PM
+Temperature: 65 F
+Humidity: 41.4 %
+
+
+January 2, 2022 9:22 PM
+Temperature: 65 F
+Humidity: 41.8 %
+
+
+January 2, 2022 9:42 PM
+Temperature: 65 F
+Humidity: 41.9 %
+
+
+January 2, 2022 10:02 PM
+Temperature: 64 F
+Humidity: 41.9 %
+
+
+January 2, 2022 10:22 PM
+Temperature: 64 F
+Humidity: 41.9 %
+
+
+January 2, 2022 10:42 PM
+Temperature: 64 F
+Humidity: 41.4 %
+
+
+January 2, 2022 11:02 PM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 65 F
+Humidity: 41.5 %
+
+
+January 2, 2022 11:22 PM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 42.0 %
+
+
+January 2, 2022 11:42 PM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 41.8 %
+
+
+January 3, 2022 12:02 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 41.8 %
+
+
+January 3, 2022 12:22 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 41.4 %
+
+
+January 3, 2022 12:42 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 41.9 %
+
+
+January 3, 2022 1:02 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 42.1 %
+
+
+January 3, 2022 1:22 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 40.7 %
+
+
+January 3, 2022 1:42 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 63 F
+Humidity: 42.5 %
+
+
+January 3, 2022 2:02 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 42.0 %
+
+
+January 3, 2022 2:22 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 65 F
+Humidity: 41.8 %
+
+
+January 3, 2022 2:42 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 42.4 %
+
+
+January 3, 2022 3:02 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 42.3 %
+
+
+January 3, 2022 3:22 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 42.5 %
+
+
+January 3, 2022 3:42 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 64 F
+Humidity: 42.0 %
+
+
+January 3, 2022 4:02 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 65 F
+Humidity: 41.4 %
+
+
+January 3, 2022 4:22 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 65 F
+Humidity: 42.4 %
+
+
+January 3, 2022 4:42 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 65 F
+Humidity: 43.7 %
+
+
+January 3, 2022 5:02 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 65 F
+Humidity: 45.1 %
+
+
+January 3, 2022 5:22 AM
+Temperature: undefined F
+Humidity: undefined %
+
+
+undefined
+Temperature: 66 F
+Humidity: 44.6 %
+
+
+January 3, 2022 5:42 AM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+January 3, 2022 6:02 AM
+Temperature: 66 F
+Humidity: 44.3 %
+
+
+January 3, 2022 6:22 AM
+Temperature: 67 F
+Humidity: 43.0 %
+
+
+January 3, 2022 6:42 AM
+Temperature: 68 F
+Humidity: 42.1 %
+
+
+January 3, 2022 7:02 AM
+Temperature: 67 F
+Humidity: 42.2 %
+
+
+January 3, 2022 7:22 AM
+Temperature: 67 F
+Humidity: 41.8 %
+
+
+January 3, 2022 7:42 AM
+Temperature: 67 F
+Humidity: 41.7 %
+
+
+January 3, 2022 8:02 AM
+Temperature: 67 F
+Humidity: 41.8 %
+
+
+January 3, 2022 8:22 AM
+Temperature: 67 F
+Humidity: 41.8 %
+
+
+January 3, 2022 8:42 AM
+Temperature: 67 F
+Humidity: 41.7 %
+
+
+January 3, 2022 9:02 AM
+Temperature: 67 F
+Humidity: 41.6 %
+
+
+January 3, 2022 9:22 AM
+Temperature: 68 F
+Humidity: 39.9 %
+
+
+January 3, 2022 9:42 AM
+Temperature: 68 F
+Humidity: 40.6 %
+
+
+January 3, 2022 10:02 AM
+Temperature: 67 F
+Humidity: 40.5 %
+
+
+January 3, 2022 10:22 AM
+Temperature: 67 F
+Humidity: 40.7 %
+
+
+January 3, 2022 10:42 AM
+Temperature: 67 F
+Humidity: 40.9 %
+
+
+January 3, 2022 11:02 AM
+Temperature: 66 F
+Humidity: 41.5 %
+
+
+January 3, 2022 11:22 AM
+Temperature: 67 F
+Humidity: 41.6 %
+
+
+January 3, 2022 11:42 AM
+Temperature: 68 F
+Humidity: 39.9 %
+
+
+January 3, 2022 12:02 PM
+Temperature: 67 F
+Humidity: 40.8 %
+
+
+January 3, 2022 12:22 PM
+Temperature: 67 F
+Humidity: 40.7 %
+
+
+January 3, 2022 12:42 PM
+Temperature: 67 F
+Humidity: 40.9 %
+
+
+January 3, 2022 1:02 PM
+Temperature: 67 F
+Humidity: 40.9 %
+
+
+January 3, 2022 1:22 PM
+Temperature: 67 F
+Humidity: 40.6 %
+
+
+January 3, 2022 1:42 PM
+Temperature: 68 F
+Humidity: 39.5 %
+
+
+January 3, 2022 2:02 PM
+Temperature: 68 F
+Humidity: 40.9 %
+
+
+January 3, 2022 2:22 PM
+Temperature: 68 F
+Humidity: 44.5 %
+
+
+January 3, 2022 2:42 PM
+Temperature: 67 F
+Humidity: 45.2 %
+
+
+January 3, 2022 3:02 PM
+Temperature: 67 F
+Humidity: 45.9 %
+
+
+January 3, 2022 3:22 PM
+Temperature: 67 F
+Humidity: 45.9 %
+
+
+January 3, 2022 3:42 PM
+Temperature: 67 F
+Humidity: 45.3 %
+
+
+January 3, 2022 4:02 PM
+Temperature: 67 F
+Humidity: 45.2 %
+
+
+January 3, 2022 4:22 PM
+Temperature: 67 F
+Humidity: 43.6 %
+
+
+January 3, 2022 4:42 PM
+Temperature: 68 F
+Humidity: 42.0 %
+
+
+January 3, 2022 5:02 PM
+Temperature: 67 F
+Humidity: 43.3 %
+
+
+January 3, 2022 5:22 PM
+Temperature: 67 F
+Humidity: 43.2 %
+
+
+January 3, 2022 5:42 PM
+Temperature: 67 F
+Humidity: 43.3 %
+
+
+January 3, 2022 6:02 PM
+Temperature: 67 F
+Humidity: 43.4 %
+
+
+January 3, 2022 6:22 PM
+Temperature: 67 F
+Humidity: 43.0 %
+
+
+January 3, 2022 6:42 PM
+Temperature: 68 F
+Humidity: 41.8 %
+
+
+January 3, 2022 7:02 PM
+Temperature: 68 F
+Humidity: 42.4 %
+
+
+January 3, 2022 7:22 PM
+Temperature: 67 F
+Humidity: 42.4 %
+
+
+January 3, 2022 7:42 PM
+Temperature: 67 F
+Humidity: 42.6 %
+
+
+January 3, 2022 8:02 PM
+Temperature: 67 F
+Humidity: 42.7 %
+
+
+January 3, 2022 8:22 PM
+Temperature: 68 F
+Humidity: 41.7 %
+
+
+January 3, 2022 8:42 PM
+Temperature: 68 F
+Humidity: 41.7 %
+
+
+January 3, 2022 9:02 PM
+Temperature: 67 F
+Humidity: 42.1 %
+
+
+January 3, 2022 9:22 PM
+Temperature: 67 F
+Humidity: 42.2 %
+
+
+January 3, 2022 9:42 PM
+Temperature: 67 F
+Humidity: 42.6 %
+
+
+January 3, 2022 10:02 PM
+Temperature: 66 F
+Humidity: 42.8 %
+
+
+January 3, 2022 10:22 PM
+Temperature: 68 F
+Humidity: 41.2 %
+
+
+January 3, 2022 10:42 PM
+Temperature: 67 F
+Humidity: 42.0 %
+
+
+January 3, 2022 11:02 PM
+Temperature: 66 F
+Humidity: 42.4 %
+
+
+January 3, 2022 11:22 PM
+Temperature: 66 F
+Humidity: 42.8 %
+
+
+January 3, 2022 11:42 PM
+Temperature: 65 F
+Humidity: 43.1 %
+
+
+January 4, 2022 12:02 AM
+Temperature: 65 F
+Humidity: 43.4 %
+
+
+January 4, 2022 12:22 AM
+Temperature: 66 F
+Humidity: 42.4 %
+
+
+January 4, 2022 12:42 AM
+Temperature: 66 F
+Humidity: 42.8 %
+
+
+January 4, 2022 1:02 AM
+Temperature: 65 F
+Humidity: 42.9 %
+
+
+January 4, 2022 1:22 AM
+Temperature: 65 F
+Humidity: 42.9 %
+
+
+January 4, 2022 1:42 AM
+Temperature: 65 F
+Humidity: 42.9 %
+
+
+January 4, 2022 2:02 AM
+Temperature: 64 F
+Humidity: 42.5 %
+
+
+January 4, 2022 2:22 AM
+Temperature: 65 F
+Humidity: 43.1 %
+
+
+January 4, 2022 2:42 AM
+Temperature: 66 F
+Humidity: 43.1 %
+
+
+January 4, 2022 3:02 AM
+Temperature: 65 F
+Humidity: 43.7 %
+
+
+January 4, 2022 3:22 AM
+Temperature: 65 F
+Humidity: 44.3 %
+
+
+January 4, 2022 3:42 AM
+Temperature: 65 F
+Humidity: 44.3 %
+
+
+January 4, 2022 4:02 AM
+Temperature: 65 F
+Humidity: 44.7 %
+
+
+January 4, 2022 4:22 AM
+Temperature: 64 F
+Humidity: 44.5 %
+
+
+January 4, 2022 4:42 AM
+Temperature: 66 F
+Humidity: 43.2 %
+
+
+January 4, 2022 5:02 AM
+Temperature: 66 F
+Humidity: 44.0 %
+
+
+January 4, 2022 5:22 AM
+Temperature: 65 F
+Humidity: 44.1 %
+
+
+January 4, 2022 5:42 AM
+Temperature: 65 F
+Humidity: 44.3 %
+
+
+January 4, 2022 6:02 AM
+Temperature: 65 F
+Humidity: 44.4 %
+
+
+January 4, 2022 6:22 AM
+Temperature: 65 F
+Humidity: 44.1 %
+
+
+January 4, 2022 6:42 AM
+Temperature: 65 F
+Humidity: 44.7 %
+
+
+January 4, 2022 7:02 AM
+Temperature: 66 F
+Humidity: 44.8 %
+
+
+January 4, 2022 7:22 AM
+Temperature: 66 F
+Humidity: 43.8 %
+
+
+January 4, 2022 7:42 AM
+Temperature: 66 F
+Humidity: 44.1 %
+
+
+January 4, 2022 8:02 AM
+Temperature: 66 F
+Humidity: 44.4 %
+
+
+January 4, 2022 8:22 AM
+Temperature: 66 F
+Humidity: 44.5 %
+
+
+January 4, 2022 8:42 AM
+Temperature: 66 F
+Humidity: 44.6 %
+
+
+January 4, 2022 9:02 AM
+Temperature: 66 F
+Humidity: 45.2 %
+
+
+January 4, 2022 9:22 AM
+Temperature: 66 F
+Humidity: 45.4 %
+
+
+January 4, 2022 9:42 AM
+Temperature: 67 F
+Humidity: 44.5 %
+
+
+January 4, 2022 10:02 AM
+Temperature: 67 F
+Humidity: 44.2 %
+
+
+January 4, 2022 10:22 AM
+Temperature: 67 F
+Humidity: 45.3 %
+
+
+January 4, 2022 10:42 AM
+Temperature: 69 F
+Humidity: 44.1 %
+
+
+January 4, 2022 11:02 AM
+Temperature: 68 F
+Humidity: 44.7 %
+
+
+January 4, 2022 11:22 AM
+Temperature: 68 F
+Humidity: 45.0 %
+
+
+January 4, 2022 11:42 AM
+Temperature: 67 F
+Humidity: 45.1 %
+
+
+January 4, 2022 12:02 PM
+Temperature: 67 F
+Humidity: 45.7 %
+
+
+January 4, 2022 12:22 PM
+Temperature: 66 F
+Humidity: 46.6 %
+
+
+January 4, 2022 12:42 PM
+Temperature: 66 F
+Humidity: 47.2 %
+
+
+January 4, 2022 1:02 PM
+Temperature: 66 F
+Humidity: 47.7 %
+
+
+January 4, 2022 1:22 PM
+Temperature: 66 F
+Humidity: 48.2 %
+
+
+January 4, 2022 1:42 PM
+Temperature: 66 F
+Humidity: 48.2 %
+
+
+January 4, 2022 2:02 PM
+Temperature: 65 F
+Humidity: 48.5 %
+
+
+January 4, 2022 2:22 PM
+Temperature: 67 F
+Humidity: 46.5 %
+
+
+January 4, 2022 2:42 PM
+Temperature: 66 F
+Humidity: 47.4 %
+
+
+January 4, 2022 3:02 PM
+Temperature: 66 F
+Humidity: 49.2 %
+
+
+January 4, 2022 3:22 PM
+Temperature: 67 F
+Humidity: 50.4 %
+
+
+January 4, 2022 3:42 PM
+Temperature: 67 F
+Humidity: 49.2 %
+
+
+January 4, 2022 4:02 PM
+Temperature: 67 F
+Humidity: 48.5 %
+
+
+January 4, 2022 4:22 PM
+Temperature: 67 F
+Humidity: 49.3 %
+
+
+January 4, 2022 4:42 PM
+Temperature: 66 F
+Humidity: 49.5 %
+
+
+January 4, 2022 5:02 PM
+Temperature: 66 F
+Humidity: 49.6 %
+
+
+January 4, 2022 5:22 PM
+Temperature: 66 F
+Humidity: 48.2 %
+
+
+January 4, 2022 5:42 PM
+Temperature: 67 F
+Humidity: 47.2 %
+
+
+January 4, 2022 6:02 PM
+Temperature: 67 F
+Humidity: 47.3 %
+
+
+January 4, 2022 6:22 PM
+Temperature: 66 F
+Humidity: 47.3 %
+
+
+January 4, 2022 6:42 PM
+Temperature: 66 F
+Humidity: 47.3 %
+
+
+January 4, 2022 7:02 PM
+Temperature: 65 F
+Humidity: 47.3 %
+
+
+January 4, 2022 7:22 PM
+Temperature: 65 F
+Humidity: 47.4 %
+
+
+January 4, 2022 7:42 PM
+Temperature: 65 F
+Humidity: 47.2 %
+
+
+January 4, 2022 8:02 PM
+Temperature: 67 F
+Humidity: 46.2 %
+
+
+January 4, 2022 8:22 PM
+Temperature: 66 F
+Humidity: 46.8 %
+
+
+January 4, 2022 8:42 PM
+Temperature: 66 F
+Humidity: 46.7 %
+
+
+January 4, 2022 9:02 PM
+Temperature: 65 F
+Humidity: 46.8 %
+
+
+January 4, 2022 9:22 PM
+Temperature: 65 F
+Humidity: 46.8 %
+
+
+January 4, 2022 9:42 PM
+Temperature: 65 F
+Humidity: 46.8 %
+
+
+January 4, 2022 10:02 PM
+Temperature: 65 F
+Humidity: 46.7 %
+
+
+January 4, 2022 10:22 PM
+Temperature: 67 F
+Humidity: 45.8 %
+
+
+January 4, 2022 10:42 PM
+Temperature: 66 F
+Humidity: 46.3 %
+
+
+January 4, 2022 11:02 PM
+Temperature: 66 F
+Humidity: 46.2 %
+
+
+January 4, 2022 11:22 PM
+Temperature: 65 F
+Humidity: 46.2 %
+
+
+January 4, 2022 11:42 PM
+Temperature: 65 F
+Humidity: 46.3 %
+
+
+January 5, 2022 12:02 AM
+Temperature: 65 F
+Humidity: 46.3 %
+
+
+January 5, 2022 12:22 AM
+Temperature: 65 F
+Humidity: 46.4 %
+
+
+January 5, 2022 12:42 AM
+Temperature: 67 F
+Humidity: 45.3 %
+
+
+January 5, 2022 1:02 AM
+Temperature: 66 F
+Humidity: 45.8 %
+
+
+January 5, 2022 1:22 AM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+January 5, 2022 1:42 AM
+Temperature: 66 F
+Humidity: 46.0 %
+
+
+January 5, 2022 2:02 AM
+Temperature: 66 F
+Humidity: 46.0 %
+
+
+January 5, 2022 2:22 AM
+Temperature: 65 F
+Humidity: 46.0 %
+
+
+January 5, 2022 2:42 AM
+Temperature: 65 F
+Humidity: 46.0 %
+
+
+January 5, 2022 3:02 AM
+Temperature: 65 F
+Humidity: 46.0 %
+
+
+January 5, 2022 3:22 AM
+Temperature: 67 F
+Humidity: 45.0 %
+
+
+January 5, 2022 3:42 AM
+Temperature: 67 F
+Humidity: 45.5 %
+
+
+January 5, 2022 4:02 AM
+Temperature: 66 F
+Humidity: 45.5 %
+
+
+January 5, 2022 4:22 AM
+Temperature: 66 F
+Humidity: 46.1 %
+
+
+January 5, 2022 4:42 AM
+Temperature: 66 F
+Humidity: 46.3 %
+
+
+January 5, 2022 5:02 AM
+Temperature: 66 F
+Humidity: 46.5 %
+
+
+January 5, 2022 5:22 AM
+Temperature: 66 F
+Humidity: 47.2 %
+
+
+January 5, 2022 5:42 AM
+Temperature: 65 F
+Humidity: 47.5 %
+
+
+January 5, 2022 6:02 AM
+Temperature: 65 F
+Humidity: 47.8 %
+
+
+January 5, 2022 6:22 AM
+Temperature: 65 F
+Humidity: 48.7 %
+
+
+January 5, 2022 6:42 AM
+Temperature: 67 F
+Humidity: 48.6 %
+
+
+January 5, 2022 7:02 AM
+Temperature: 67 F
+Humidity: 48.5 %
+
+
+January 5, 2022 7:22 AM
+Temperature: 67 F
+Humidity: 49.0 %
+
+
+January 5, 2022 7:48 AM
+Temperature: 68 F
+Humidity: 49.7 %
+January 5, 2022 8:08 AM
+Temperature: 68 F
+Humidity: 50.8 %
+January 5, 2022 8:28 AM
+Temperature: 68 F
+Humidity: 50.9 %
+January 5, 2022 8:48 AM
+Temperature: 68 F
+Humidity: 50.5 %
+January 5, 2022 9:08 AM
+Temperature: 68 F
+Humidity: 48.8 %
+January 5, 2022 9:28 AM
+Temperature: 68 F
+Humidity: 48.2 %
+January 5, 2022 9:48 AM
+Temperature: 68 F
+Humidity: 47.6 %
+January 5, 2022 10:08 AM
+Temperature: 68 F
+Humidity: 47.4 %
+January 5, 2022 10:28 AM
+Temperature: 68 F
+Humidity: 47.5 %
+January 5, 2022 10:48 AM
+Temperature: 68 F
+Humidity: 47.4 %
+January 5, 2022 11:08 AM
+Temperature: 68 F
+Humidity: 47.3 %
+January 5, 2022 11:28 AM
+Temperature: 68 F
+Humidity: 47.4 %
+January 5, 2022 11:48 AM
+Temperature: 69 F
+Humidity: 46.6 %
+January 5, 2022 12:08 PM
+Temperature: 69 F
+Humidity: 45.4 %
+January 5, 2022 12:28 PM
+Temperature: 69 F
+Humidity: 45.8 %
+January 5, 2022 12:48 PM
+Temperature: 69 F
+Humidity: 45.6 %
+January 5, 2022 1:08 PM
+Temperature: 69 F
+Humidity: 45.6 %
+January 5, 2022 1:28 PM
+Temperature: 68 F
+Humidity: 45.9 %
+January 5, 2022 1:48 PM
+Temperature: 68 F
+Humidity: 46.5 %
+January 5, 2022 2:08 PM
+Temperature: 68 F
+Humidity: 46.7 %
+January 5, 2022 2:28 PM
+Temperature: 68 F
+Humidity: 46.8 %
+January 5, 2022 2:48 PM
+Temperature: 68 F
+Humidity: 48.3 %
+January 5, 2022 3:08 PM
+Temperature: 68 F
+Humidity: 49.4 %
+January 5, 2022 3:28 PM
+Temperature: 68 F
+Humidity: 48.4 %
+January 5, 2022 3:48 PM
+Temperature: 69 F
+Humidity: 48.5 %
+January 5, 2022 4:08 PM
+Temperature: 69 F
+Humidity: 47.8 %
+January 5, 2022 4:28 PM
+Temperature: 69 F
+Humidity: 47.8 %
+January 5, 2022 4:48 PM
+Temperature: 69 F
+Humidity: 47.7 %
+January 5, 2022 5:08 PM
+Temperature: 68 F
+Humidity: 47.6 %
+January 5, 2022 5:28 PM
+Temperature: 68 F
+Humidity: 47.5 %
+January 5, 2022 5:48 PM
+Temperature: 68 F
+Humidity: 47.5 %
+January 5, 2022 6:08 PM
+Temperature: 67 F
+Humidity: 47.5 %
+January 5, 2022 6:28 PM
+Temperature: 69 F
+Humidity: 46.0 %
+January 5, 2022 6:48 PM
+Temperature: 69 F
+Humidity: 46.1 %
+January 5, 2022 7:08 PM
+Temperature: 69 F
+Humidity: 46.4 %
+January 5, 2022 7:28 PM
+Temperature: 68 F
+Humidity: 46.5 %
+January 5, 2022 7:48 PM
+Temperature: 68 F
+Humidity: 46.7 %
+January 5, 2022 8:08 PM
+Temperature: 68 F
+Humidity: 46.9 %
+January 5, 2022 8:28 PM
+Temperature: 68 F
+Humidity: 46.7 %
+January 5, 2022 8:48 PM
+Temperature: 68 F
+Humidity: 46.6 %
+January 5, 2022 9:08 PM
+Temperature: 69 F
+Humidity: 46.5 %
+January 5, 2022 9:28 PM
+Temperature: 69 F
+Humidity: 45.4 %
+January 5, 2022 9:48 PM
+Temperature: 69 F
+Humidity: 45.7 %
+January 5, 2022 10:08 PM
+Temperature: 69 F
+Humidity: 45.8 %
+January 5, 2022 10:28 PM
+Temperature: 69 F
+Humidity: 45.9 %
+January 5, 2022 10:48 PM
+Temperature: 68 F
+Humidity: 46.0 %
+January 5, 2022 11:08 PM
+Temperature: 68 F
+Humidity: 47.1 %
+January 5, 2022 11:28 PM
+Temperature: 68 F
+Humidity: 47.1 %
+January 5, 2022 11:48 PM
+Temperature: 68 F
+Humidity: 47.3 %
+January 6, 2022 12:08 AM
+Temperature: 69 F
+Humidity: 46.1 %
+January 6, 2022 12:28 AM
+Temperature: 69 F
+Humidity: 45.8 %
+January 6, 2022 12:48 AM
+Temperature: 69 F
+Humidity: 46.5 %
+January 6, 2022 1:08 AM
+Temperature: 68 F
+Humidity: 47.2 %
+January 6, 2022 1:28 AM
+Temperature: 67 F
+Humidity: 47.8 %
+January 6, 2022 1:48 AM
+Temperature: 67 F
+Humidity: 48.1 %
+January 6, 2022 2:08 AM
+Temperature: 67 F
+Humidity: 47.9 %
+January 6, 2022 2:28 AM
+Temperature: 67 F
+Humidity: 47.8 %
+January 6, 2022 2:48 AM
+Temperature: 68 F
+Humidity: 47.2 %
+January 6, 2022 3:08 AM
+Temperature: 69 F
+Humidity: 45.5 %
+January 6, 2022 3:28 AM
+Temperature: 68 F
+Humidity: 46.4 %
+January 6, 2022 3:48 AM
+Temperature: 68 F
+Humidity: 46.9 %
+January 6, 2022 4:08 AM
+Temperature: 67 F
+Humidity: 47.0 %
+January 6, 2022 4:28 AM
+Temperature: 67 F
+Humidity: 47.2 %
+January 6, 2022 4:48 AM
+Temperature: 67 F
+Humidity: 47.2 %
+January 6, 2022 5:08 AM
+Temperature: 67 F
+Humidity: 47.2 %
+January 6, 2022 5:28 AM
+Temperature: 66 F
+Humidity: 47.1 %
+January 6, 2022 5:48 AM
+Temperature: 66 F
+Humidity: 47.1 %
+January 6, 2022 6:08 AM
+Temperature: 67 F
+Humidity: 46.5 %
+January 6, 2022 6:28 AM
+Temperature: 68 F
+Humidity: 46.2 %
+January 6, 2022 6:48 AM
+Temperature: 67 F
+Humidity: 46.4 %
+January 6, 2022 7:08 AM
+Temperature: 67 F
+Humidity: 46.3 %
+January 6, 2022 7:28 AM
+Temperature: 67 F
+Humidity: 46.3 %
+January 6, 2022 7:48 AM
+Temperature: 67 F
+Humidity: 46.4 %
+January 6, 2022 8:08 AM
+Temperature: 67 F
+Humidity: 47.2 %
+January 6, 2022 8:28 AM
+Temperature: 67 F
+Humidity: 46.8 %
+January 6, 2022 8:48 AM
+Temperature: 67 F
+Humidity: 47.0 %
+January 6, 2022 9:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.1 %
+January 6, 2022 9:28 AM
+Temperature: 66 F
+Humidity: 47.0 %
+January 6, 2022 9:48 AM
+Temperature: 66 F
+Humidity: 48.3 %
+January 6, 2022 10:08 AM
+Temperature: 66 F
+Humidity: 48.2 %
+January 6, 2022 10:28 AM
+Temperature: 68 F
+Humidity: 47.4 %
+January 6, 2022 10:48 AM
+Temperature: 67 F
+Humidity: 47.8 %
+January 6, 2022 11:08 AM
+Temperature: 67 F
+Humidity: 47.6 %
+January 6, 2022 11:28 AM
+Temperature: 67 F
+Humidity: 47.5 %
+January 6, 2022 11:48 AM
+Temperature: 67 F
+Humidity: 47.4 %
+January 6, 2022 12:08 PM
+Temperature: 67 F
+Humidity: 47.5 %
+January 6, 2022 12:28 PM
+Temperature: 67 F
+Humidity: 47.7 %
+January 6, 2022 12:48 PM
+Temperature: 67 F
+Humidity: 47.6 %
+January 6, 2022 1:08 PM
+Temperature: 66 F
+Humidity: 47.7 %
+January 6, 2022 1:28 PM
+Temperature: 66 F
+Humidity: 48.0 %
+January 6, 2022 1:48 PM
+Temperature: 67 F
+Humidity: 48.1 %
+January 6, 2022 2:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 47.3 %
+January 6, 2022 2:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 48.0 %
+January 6, 2022 2:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 48.8 %
+January 6, 2022 3:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 47.9 %
+January 6, 2022 3:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.7 %
+January 6, 2022 3:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.5 %
+January 6, 2022 4:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.4 %
+January 6, 2022 4:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.4 %
+January 6, 2022 4:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.4 %
+January 6, 2022 5:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.3 %
+January 6, 2022 5:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.6 %
+January 6, 2022 5:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.8 %
+January 6, 2022 6:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.9 %
+January 6, 2022 6:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.9 %
+January 6, 2022 6:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.0 %
+January 6, 2022 7:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 6, 2022 7:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 6, 2022 7:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 6, 2022 8:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.2 %
+January 6, 2022 8:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.0 %
+January 6, 2022 8:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.0 %
+January 6, 2022 9:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.0 %
+January 6, 2022 9:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.0 %
+January 6, 2022 9:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.0 %
+January 6, 2022 10:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.1 %
+January 6, 2022 10:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 47.3 %
+January 6, 2022 10:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.4 %
+January 6, 2022 11:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 6, 2022 11:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 6, 2022 11:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 7, 2022 12:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 7, 2022 12:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 47.1 %
+January 7, 2022 12:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 47.1 %
+January 7, 2022 1:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.6 %
+January 7, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.3 %
+January 7, 2022 1:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.9 %
+January 7, 2022 2:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.5 %
+January 7, 2022 2:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 48.2 %
+January 7, 2022 2:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 48.4 %
+January 7, 2022 3:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 48.2 %
+January 7, 2022 3:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 48.3 %
+January 7, 2022 3:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.7 %
+January 7, 2022 4:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.4 %
+January 7, 2022 4:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.4 %
+January 7, 2022 4:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.6 %
+January 7, 2022 5:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.1 %
+January 7, 2022 5:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 51.6 %
+January 7, 2022 5:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 51.1 %
+January 7, 2022 6:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 50.5 %
+January 7, 2022 6:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 50.4 %
+January 7, 2022 6:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 50.2 %
+January 7, 2022 7:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 50.0 %
+January 7, 2022 7:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 49.5 %
+January 7, 2022 7:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 49.1 %
+January 7, 2022 8:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 49.0 %
+January 7, 2022 8:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 49.0 %
+January 7, 2022 8:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.8 %
+January 7, 2022 9:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 48.0 %
+January 7, 2022 9:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.9 %
+January 7, 2022 9:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 46.7 %
+January 7, 2022 10:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 46.4 %
+January 7, 2022 10:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 46.1 %
+January 7, 2022 10:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.8 %
+January 7, 2022 11:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.9 %
+January 7, 2022 11:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.8 %
+January 7, 2022 11:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.9 %
+January 7, 2022 12:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.6 %
+January 7, 2022 12:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.7 %
+January 7, 2022 12:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.5 %
+January 7, 2022 1:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.6 %
+January 7, 2022 1:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.4 %
+January 7, 2022 1:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 44.9 %
+January 7, 2022 2:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.8 %
+January 7, 2022 2:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.9 %
+January 7, 2022 2:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.9 %
+January 7, 2022 3:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 48.3 %
+January 7, 2022 3:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 51.7 %
+January 7, 2022 3:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 53.2 %
+January 7, 2022 4:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 53.5 %
+January 7, 2022 4:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 53.1 %
+January 7, 2022 4:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 52.3 %
+January 7, 2022 5:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 51.7 %
+January 7, 2022 5:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 51.4 %
+January 7, 2022 5:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 50.8 %
+January 7, 2022 6:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 50.3 %
+January 7, 2022 6:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 49.9 %
+January 7, 2022 6:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 49.8 %
+January 7, 2022 7:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 49.5 %
+January 7, 2022 7:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 49.5 %
+January 7, 2022 7:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 48.0 %
+January 7, 2022 8:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 48.2 %
+January 7, 2022 8:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 48.3 %
+January 7, 2022 8:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.4 %
+January 7, 2022 9:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.4 %
+January 7, 2022 9:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.3 %
+January 7, 2022 9:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.4 %
+January 7, 2022 10:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.5 %
+January 7, 2022 10:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.6 %
+January 7, 2022 10:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.3 %
+January 7, 2022 11:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.1 %
+January 7, 2022 11:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.0 %
+January 7, 2022 11:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.9 %
+January 8, 2022 12:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.0 %
+January 8, 2022 12:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.0 %
+January 8, 2022 12:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.9 %
+January 8, 2022 1:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.2 %
+January 8, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.8 %
+January 8, 2022 1:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.2 %
+January 8, 2022 2:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.0 %
+January 8, 2022 2:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.0 %
+January 8, 2022 2:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.9 %
+January 8, 2022 3:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 47.8 %
+January 8, 2022 3:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.4 %
+January 8, 2022 3:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 49.1 %
+January 8, 2022 4:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 49.0 %
+January 8, 2022 4:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.0 %
+January 8, 2022 4:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.8 %
+January 8, 2022 5:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.9 %
+January 8, 2022 5:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.3 %
+January 8, 2022 5:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.1 %
+January 8, 2022 6:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.1 %
+January 8, 2022 6:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.8 %
+January 8, 2022 6:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.3 %
+January 8, 2022 7:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.8 %
+January 8, 2022 7:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.5 %
+January 8, 2022 7:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.8 %
+January 8, 2022 8:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 48.1 %
+January 8, 2022 8:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.6 %
+January 8, 2022 8:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 46.6 %
+January 8, 2022 9:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.9 %
+January 8, 2022 9:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.6 %
+January 8, 2022 9:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.4 %
+January 8, 2022 10:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.3 %
+January 8, 2022 10:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.1 %
+January 8, 2022 10:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.1 %
+January 8, 2022 11:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.1 %
+January 8, 2022 11:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.0 %
+January 8, 2022 11:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.1 %
+January 8, 2022 12:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.0 %
+January 8, 2022 12:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.4 %
+January 8, 2022 12:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.3 %
+January 8, 2022 1:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.6 %
+January 8, 2022 1:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.5 %
+January 8, 2022 1:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.3 %
+January 8, 2022 2:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 44.3 %
+January 8, 2022 2:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.0 %
+January 8, 2022 2:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.2 %
+January 8, 2022 3:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.4 %
+January 8, 2022 3:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.0 %
+January 8, 2022 3:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.2 %
+January 8, 2022 4:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.5 %
+January 8, 2022 4:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.2 %
+January 8, 2022 4:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.0 %
+January 8, 2022 5:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.1 %
+January 8, 2022 5:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.3 %
+January 8, 2022 5:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.3 %
+January 8, 2022 6:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.3 %
+January 8, 2022 6:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.4 %
+January 8, 2022 6:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.9 %
+January 8, 2022 7:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.2 %
+January 8, 2022 7:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.3 %
+January 8, 2022 7:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.2 %
+January 8, 2022 8:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.1 %
+January 8, 2022 8:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.3 %
+January 8, 2022 8:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.7 %
+January 8, 2022 9:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.3 %
+January 8, 2022 9:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.2 %
+January 8, 2022 9:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.5 %
+January 8, 2022 10:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.3 %
+January 8, 2022 10:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.4 %
+January 8, 2022 10:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.8 %
+January 8, 2022 11:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.4 %
+January 8, 2022 11:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.3 %
+January 8, 2022 11:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.4 %
+January 9, 2022 12:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.4 %
+January 9, 2022 12:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.1 %
+January 9, 2022 12:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.2 %
+January 9, 2022 1:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.5 %
+January 9, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.5 %
+January 9, 2022 1:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.5 %
+January 9, 2022 2:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 64 F
+Humidity: 45.7 %
+January 9, 2022 2:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.9 %
+January 9, 2022 2:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.5 %
+January 9, 2022 3:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 46.6 %
+January 9, 2022 3:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 46.9 %
+January 9, 2022 3:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 46.8 %
+January 9, 2022 4:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 47.0 %
+January 9, 2022 4:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 46.4 %
+January 9, 2022 4:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.3 %
+January 9, 2022 5:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 53.5 %
+January 9, 2022 5:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 51.3 %
+January 9, 2022 5:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 50.7 %
+January 9, 2022 6:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 50.1 %
+January 9, 2022 6:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 49.4 %
+January 9, 2022 6:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.8 %
+January 9, 2022 7:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 48.1 %
+January 9, 2022 7:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.1 %
+January 9, 2022 7:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.4 %
+January 9, 2022 8:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.0 %
+January 9, 2022 8:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.7 %
+January 9, 2022 8:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.6 %
+January 9, 2022 9:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.3 %
+January 9, 2022 9:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.2 %
+January 9, 2022 9:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 43.1 %
+January 9, 2022 10:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 43.8 %
+January 9, 2022 10:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 44.0 %
+January 9, 2022 10:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 44.6 %
+January 9, 2022 11:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 44.4 %
+January 9, 2022 11:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.6 %
+January 9, 2022 11:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.6 %
+January 9, 2022 12:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.6 %
+January 9, 2022 12:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.5 %
+January 9, 2022 12:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.8 %
+January 9, 2022 1:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.8 %
+January 9, 2022 1:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 42.7 %
+January 9, 2022 1:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 43.9 %
+January 9, 2022 2:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 43.9 %
+January 9, 2022 2:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.1 %
+January 9, 2022 2:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.5 %
+January 9, 2022 3:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.6 %
+January 9, 2022 3:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.6 %
+January 9, 2022 3:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 47.4 %
+January 9, 2022 4:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.9 %
+January 9, 2022 4:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 44.8 %
+January 9, 2022 4:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.8 %
+January 9, 2022 5:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.0 %
+January 9, 2022 5:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.9 %
+January 9, 2022 5:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.0 %
+January 9, 2022 6:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.0 %
+January 9, 2022 6:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.8 %
+January 9, 2022 6:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.7 %
+January 9, 2022 7:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.9 %
+January 9, 2022 7:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.9 %
+January 9, 2022 7:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.9 %
+January 9, 2022 8:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.0 %
+January 9, 2022 8:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.8 %
+January 9, 2022 8:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.4 %
+January 9, 2022 9:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.1 %
+January 9, 2022 9:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.8 %
+January 9, 2022 9:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.0 %
+January 9, 2022 10:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.2 %
+January 9, 2022 10:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.8 %
+January 9, 2022 10:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.6 %
+January 9, 2022 11:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.9 %
+January 9, 2022 11:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.0 %
+January 9, 2022 11:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.0 %
+January 10, 2022 12:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 64 F
+Humidity: 45.1 %
+January 10, 2022 12:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.7 %
+January 10, 2022 12:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.4 %
+January 10, 2022 1:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 46.3 %
+January 10, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.8 %
+January 10, 2022 1:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 64 F
+Humidity: 45.2 %
+January 10, 2022 2:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 45.3 %
+January 10, 2022 2:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.3 %
+January 10, 2022 2:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.9 %
+January 10, 2022 3:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.7 %
+January 10, 2022 3:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.8 %
+January 10, 2022 3:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 64 F
+Humidity: 44.9 %
+January 10, 2022 4:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 64 F
+Humidity: 45.2 %
+January 10, 2022 4:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.8 %
+January 10, 2022 4:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.7 %
+January 10, 2022 5:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 46.1 %
+January 10, 2022 5:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 46.6 %
+January 10, 2022 5:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 48.1 %
+January 10, 2022 6:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 48.4 %
+January 10, 2022 6:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 48.3 %
+January 10, 2022 6:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 48.5 %
+January 10, 2022 7:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.8 %
+January 10, 2022 7:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.8 %
+January 10, 2022 7:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.3 %
+January 10, 2022 8:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.7 %
+January 10, 2022 8:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.5 %
+January 10, 2022 8:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.7 %
+January 10, 2022 9:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 41.9 %
+January 10, 2022 9:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 41.3 %
+January 10, 2022 9:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 41.4 %
+January 10, 2022 10:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.8 %
+January 10, 2022 10:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.0 %
+January 10, 2022 10:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.7 %
+January 10, 2022 11:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.8 %
+January 10, 2022 11:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.0 %
+January 10, 2022 11:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 41.5 %
+January 10, 2022 12:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.2 %
+January 10, 2022 12:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.1 %
+January 10, 2022 12:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 43.0 %
+January 10, 2022 1:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.6 %
+January 10, 2022 1:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.7 %
+January 10, 2022 1:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 42.3 %
+January 10, 2022 2:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 42.8 %
+January 10, 2022 2:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.5 %
+January 10, 2022 2:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 43.0 %
+January 10, 2022 3:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.6 %
+January 10, 2022 3:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 46.4 %
+January 10, 2022 3:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.1 %
+January 10, 2022 4:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.6 %
+January 10, 2022 4:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.1 %
+January 10, 2022 4:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 44.8 %
+January 10, 2022 5:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.8 %
+January 10, 2022 5:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.5 %
+January 10, 2022 5:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.6 %
+January 10, 2022 6:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.6 %
+January 10, 2022 6:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.4 %
+January 10, 2022 6:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.7 %
+January 10, 2022 7:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.2 %
+January 10, 2022 7:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.7 %
+January 10, 2022 7:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.9 %
+January 10, 2022 8:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.9 %
+January 10, 2022 8:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 43.8 %
+January 10, 2022 8:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.8 %
+January 10, 2022 9:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.0 %
+January 10, 2022 9:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.2 %
+January 10, 2022 9:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.1 %
+January 10, 2022 10:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.0 %
+January 10, 2022 10:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.1 %
+January 10, 2022 10:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.1 %
+January 10, 2022 11:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.8 %
+January 10, 2022 11:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 43.8 %
+January 10, 2022 11:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 43.9 %
+January 11, 2022 12:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.1 %
+January 11, 2022 12:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.4 %
+January 11, 2022 12:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.4 %
+January 11, 2022 1:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.4 %
+January 11, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 43.6 %
+January 11, 2022 1:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.6 %
+January 11, 2022 2:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 64 F
+Humidity: 45.0 %
+January 11, 2022 2:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 64 F
+Humidity: 45.4 %
+January 11, 2022 2:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.8 %
+January 11, 2022 3:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.2 %
+January 11, 2022 3:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.3 %
+January 11, 2022 3:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.3 %
+January 11, 2022 4:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 45.1 %
+January 11, 2022 4:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.2 %
+January 11, 2022 4:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 45.9 %
+January 11, 2022 5:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 47.3 %
+January 11, 2022 5:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 48.1 %
+January 11, 2022 5:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 49.9 %
+January 11, 2022 6:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 49.8 %
+January 11, 2022 6:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 49.1 %
+January 11, 2022 6:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 48.3 %
+January 11, 2022 7:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 46.9 %
+January 11, 2022 7:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 46.3 %
+January 11, 2022 7:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 45.6 %
+January 11, 2022 8:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 43.4 %
+January 11, 2022 8:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 42.5 %
+January 11, 2022 8:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 42.2 %
+January 11, 2022 9:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 41.6 %
+January 11, 2022 9:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 41.4 %
+January 11, 2022 9:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 41.2 %
+January 11, 2022 10:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 41.1 %
+January 11, 2022 10:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.3 %
+January 11, 2022 10:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.7 %
+January 11, 2022 11:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.5 %
+January 11, 2022 11:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 71 F
+Humidity: 39.9 %
+January 11, 2022 11:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 71 F
+Humidity: 40.0 %
+January 11, 2022 12:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 71 F
+Humidity: 40.0 %
+January 11, 2022 12:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 40.2 %
+January 11, 2022 12:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 40.5 %
+January 11, 2022 1:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 40.4 %
+January 11, 2022 1:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 40.7 %
+January 11, 2022 1:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 71 F
+Humidity: 39.2 %
+January 11, 2022 2:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 39.8 %
+January 11, 2022 2:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 39.8 %
+January 11, 2022 2:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 39.9 %
+January 11, 2022 3:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 40.1 %
+January 11, 2022 3:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 40.0 %
+January 11, 2022 3:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 71 F
+Humidity: 39.3 %
+January 11, 2022 4:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 40.7 %
+January 11, 2022 4:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 43.1 %
+January 11, 2022 4:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 43.5 %
+January 11, 2022 5:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 43.7 %
+January 11, 2022 5:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 43.8 %
+January 11, 2022 5:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 71 F
+Humidity: 41.9 %
+January 11, 2022 6:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 42.7 %
+January 11, 2022 6:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 42.8 %
+January 11, 2022 6:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.9 %
+January 11, 2022 7:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 43.0 %
+January 11, 2022 7:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.2 %
+January 11, 2022 7:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.5 %
+January 11, 2022 8:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.1 %
+January 11, 2022 8:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.7 %
+January 11, 2022 8:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 43.6 %
+January 11, 2022 9:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.2 %
+January 11, 2022 9:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.2 %
+January 11, 2022 9:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.1 %
+January 11, 2022 10:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.1 %
+January 11, 2022 10:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.2 %
+January 11, 2022 10:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.3 %
+January 11, 2022 11:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.5 %
+January 11, 2022 11:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.7 %
+January 11, 2022 11:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.6 %
+January 12, 2022 12:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.7 %
+January 12, 2022 12:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.7 %
+January 12, 2022 12:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 43.8 %
+January 12, 2022 1:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.7 %
+January 12, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.6 %
+January 12, 2022 1:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.7 %
+January 12, 2022 2:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.0 %
+January 12, 2022 2:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.1 %
+January 12, 2022 2:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.1 %
+January 12, 2022 3:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.2 %
+January 12, 2022 3:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.4 %
+January 12, 2022 3:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.3 %
+January 12, 2022 4:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.7 %
+January 12, 2022 4:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 46.1 %
+January 12, 2022 4:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.6 %
+January 12, 2022 5:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.5 %
+January 12, 2022 5:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.8 %
+January 12, 2022 5:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 44.6 %
+January 12, 2022 6:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 43.6 %
+January 12, 2022 6:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 43.6 %
+January 12, 2022 6:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.2 %
+January 12, 2022 7:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 44.3 %
+January 12, 2022 7:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 43.3 %
+January 12, 2022 7:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 43.1 %
+January 12, 2022 8:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.6 %
+January 12, 2022 8:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.3 %
+January 12, 2022 8:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.0 %
+January 12, 2022 9:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.9 %
+January 12, 2022 9:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.7 %
+January 12, 2022 9:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.6 %
+January 12, 2022 10:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 71 F
+Humidity: 40.3 %
+January 12, 2022 10:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 40.7 %
+January 12, 2022 10:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 40.7 %
+January 12, 2022 11:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 41.0 %
+January 12, 2022 11:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 41.0 %
+January 12, 2022 11:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.2 %
+January 12, 2022 12:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 40.8 %
+January 12, 2022 12:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 40.8 %
+January 12, 2022 12:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 40.9 %
+January 12, 2022 1:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.6 %
+January 12, 2022 1:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.4 %
+January 12, 2022 1:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 40.4 %
+January 12, 2022 2:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.2 %
+January 12, 2022 2:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.5 %
+January 12, 2022 2:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.7 %
+January 12, 2022 3:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 41.3 %
+January 12, 2022 3:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.2 %
+January 12, 2022 3:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 70 F
+Humidity: 41.3 %
+January 12, 2022 4:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.9 %
+January 12, 2022 4:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 41.9 %
+January 12, 2022 4:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 41.9 %
+January 12, 2022 5:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.0 %
+January 12, 2022 5:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.3 %
+January 12, 2022 5:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 41.9 %
+January 12, 2022 6:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 41.5 %
+January 12, 2022 6:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 42.0 %
+January 12, 2022 6:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.6 %
+January 12, 2022 7:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.0 %
+January 12, 2022 7:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.0 %
+January 12, 2022 7:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.9 %
+January 12, 2022 8:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.9 %
+January 12, 2022 8:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.8 %
+January 12, 2022 8:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 43.5 %
+January 12, 2022 9:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.9 %
+January 12, 2022 9:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 43.1 %
+January 12, 2022 9:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.9 %
+January 12, 2022 10:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.9 %
+January 12, 2022 10:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 42.9 %
+January 12, 2022 10:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 42.9 %
+January 12, 2022 11:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 42.8 %
+January 12, 2022 11:28 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 41.9 %
+January 12, 2022 11:48 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.8 %
+January 13, 2022 12:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.7 %
+January 13, 2022 12:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 42.7 %
+January 13, 2022 12:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 42.7 %
+January 13, 2022 1:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 42.8 %
+January 13, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 42.0 %
+January 13, 2022 1:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.6 %
+January 13, 2022 2:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 42.1 %
+January 13, 2022 2:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 43.3 %
+January 13, 2022 2:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.0 %
+January 13, 2022 3:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.1 %
+January 13, 2022 3:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.8 %
+January 13, 2022 3:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.8 %
+January 13, 2022 4:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.7 %
+January 13, 2022 4:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.5 %
+January 13, 2022 4:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.3 %
+January 13, 2022 5:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.5 %
+January 13, 2022 5:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 44.9 %
+January 13, 2022 5:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 46.4 %
+January 13, 2022 6:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 66 F
+Humidity: 50.9 %
+January 13, 2022 6:28 AM
+Temperature: undefined F
+Humidity: 51.2 %
+undefined
+Temperature: 67 F
+Humidity: undefined %
+January 13, 2022 6:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 51.5 %
+January 13, 2022 7:08 AM
+Temperature: 67 F
+Humidity: 51.8 %
+January 13, 2022 7:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 51.7 %
+January 13, 2022 7:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 50.7 %
+January 13, 2022 8:08 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 68 F
+Humidity: 49.8 %
+January 13, 2022 8:28 AM
+Temperature: 68 F
+Humidity: 49.1 %
+January 13, 2022 8:48 AM
+Temperature: 67 F
+Humidity: 48.9 %
+January 13, 2022 9:08 AM
+Temperature: 68 F
+Humidity: 48.0 %
+January 13, 2022 9:28 AM
+Temperature: 69 F
+Humidity: 46.7 %
+January 13, 2022 9:48 AM
+Temperature: 69 F
+Humidity: 46.7 %
+January 13, 2022 10:08 AM
+Temperature: 69 F
+Humidity: 46.0 %
+January 13, 2022 10:28 AM
+Temperature: 69 F
+Humidity: 46.0 %
+January 13, 2022 10:48 AM
+Temperature: 69 F
+Humidity: 47.0 %
+January 13, 2022 11:08 AM
+Temperature: 69 F
+Humidity: 48.3 %
+January 13, 2022 11:28 AM
+Temperature: 69 F
+Humidity: 48.8 %
+January 13, 2022 11:48 AM
+Temperature: 69 F
+Humidity: 49.8 %
+January 13, 2022 12:08 PM
+Temperature: 69 F
+Humidity: 50.6 %
+January 13, 2022 12:28 PM
+Temperature: 69 F
+Humidity: 49.8 %
+January 13, 2022 12:48 PM
+Temperature: 69 F
+Humidity: 49.3 %
+January 13, 2022 1:08 PM
+Temperature: 69 F
+Humidity: 49.4 %
+January 13, 2022 1:28 PM
+Temperature: 69 F
+Humidity: 49.3 %
+January 13, 2022 1:48 PM
+Temperature: 69 F
+Humidity: 48.9 %
+January 13, 2022 2:08 PM
+Temperature: 68 F
+Humidity: 48.8 %
+January 13, 2022 2:28 PM
+Temperature: 68 F
+Humidity: 48.9 %
+January 13, 2022 2:48 PM
+Temperature: 68 F
+Humidity: 48.0 %
+January 13, 2022 3:08 PM
+Temperature: 69 F
+Humidity: 45.4 %
+January 13, 2022 3:28 PM
+Temperature: 69 F
+Humidity: 45.9 %
+January 13, 2022 3:48 PM
+Temperature: 69 F
+Humidity: 46.1 %
+January 13, 2022 4:08 PM
+Temperature: 68 F
+Humidity: 47.0 %
+January 13, 2022 4:28 PM
+Temperature: 68 F
+Humidity: 46.9 %
+January 13, 2022 4:48 PM
+Temperature: 68 F
+Humidity: 46.9 %
+January 13, 2022 5:08 PM
+Temperature: 68 F
+Humidity: 46.9 %
+January 13, 2022 5:28 PM
+Temperature: 67 F
+Humidity: 46.6 %
+January 13, 2022 5:48 PM
+Temperature: 69 F
+Humidity: 44.1 %
+January 13, 2022 6:08 PM
+Temperature: 68 F
+Humidity: 45.1 %
+January 13, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 45.3 %
+January 13, 2022 6:48 PM
+Temperature: 67 F
+Humidity: 45.6 %
+January 13, 2022 7:08 PM
+Temperature: 66 F
+Humidity: 45.6 %
+January 13, 2022 7:28 PM
+Temperature: 66 F
+Humidity: 45.7 %
+January 13, 2022 7:48 PM
+Temperature: 67 F
+Humidity: 44.7 %
+January 13, 2022 8:08 PM
+Temperature: 67 F
+Humidity: 45.0 %
+January 13, 2022 8:28 PM
+Temperature: 66 F
+Humidity: 45.2 %
+January 13, 2022 8:48 PM
+Temperature: 66 F
+Humidity: 45.3 %
+January 13, 2022 9:08 PM
+Temperature: 65 F
+Humidity: 45.3 %
+January 13, 2022 9:28 PM
+Temperature: 65 F
+Humidity: 45.5 %
+January 13, 2022 9:48 PM
+Temperature: 66 F
+Humidity: 44.5 %
+January 13, 2022 10:08 PM
+Temperature: 66 F
+Humidity: 44.9 %
+January 13, 2022 10:28 PM
+Temperature: 66 F
+Humidity: 45.0 %
+January 13, 2022 10:48 PM
+Temperature: 65 F
+Humidity: 45.1 %
+January 13, 2022 11:08 PM
+Temperature: 65 F
+Humidity: 45.3 %
+January 13, 2022 11:28 PM
+Temperature: 65 F
+Humidity: 45.5 %
+January 13, 2022 11:48 PM
+Temperature: 64 F
+Humidity: 45.7 %
+January 14, 2022 12:08 AM
+Temperature: 64 F
+Humidity: 45.8 %
+January 14, 2022 12:28 AM
+Temperature: 64 F
+Humidity: 46.1 %
+January 14, 2022 12:48 AM
+Temperature: 65 F
+Humidity: 45.4 %
+January 14, 2022 1:08 AM
+Temperature: 65 F
+Humidity: 46.4 %
+January 14, 2022 1:28 AM
+Temperature: 65 F
+Humidity: 46.4 %
+January 14, 2022 1:48 AM
+Temperature: 65 F
+Humidity: 46.3 %
+January 14, 2022 2:08 AM
+Temperature: 64 F
+Humidity: 46.5 %
+January 14, 2022 2:28 AM
+Temperature: 64 F
+Humidity: 46.6 %
+January 14, 2022 2:48 AM
+Temperature: 64 F
+Humidity: 46.7 %
+January 14, 2022 3:08 AM
+Temperature: 65 F
+Humidity: 45.3 %
+January 14, 2022 3:28 AM
+Temperature: 65 F
+Humidity: 46.1 %
+January 14, 2022 3:48 AM
+Temperature: 65 F
+Humidity: 46.0 %
+January 14, 2022 4:08 AM
+Temperature: 64 F
+Humidity: 45.9 %
+January 14, 2022 4:28 AM
+Temperature: 64 F
+Humidity: 45.8 %
+January 14, 2022 4:48 AM
+Temperature: 64 F
+Humidity: 45.9 %
+January 14, 2022 5:08 AM
+Temperature: 64 F
+Humidity: 47.0 %
+January 14, 2022 5:28 AM
+Temperature: 64 F
+Humidity: 48.0 %
+January 14, 2022 5:48 AM
+Temperature: 66 F
+Humidity: 47.3 %
+January 14, 2022 6:08 AM
+Temperature: 66 F
+Humidity: 47.7 %
+January 14, 2022 6:28 AM
+Temperature: 66 F
+Humidity: 47.8 %
+January 14, 2022 6:48 AM
+Temperature: 66 F
+Humidity: 48.3 %
+January 14, 2022 7:08 AM
+Temperature: 66 F
+Humidity: 47.4 %
+January 14, 2022 7:28 AM
+Temperature: 67 F
+Humidity: 46.5 %
+January 14, 2022 7:48 AM
+Temperature: 67 F
+Humidity: 45.7 %
+January 14, 2022 8:08 AM
+Temperature: 67 F
+Humidity: 44.9 %
+January 14, 2022 8:28 AM
+Temperature: 67 F
+Humidity: 44.6 %
+January 14, 2022 8:48 AM
+Temperature: 67 F
+Humidity: 44.6 %
+January 14, 2022 9:08 AM
+Temperature: 67 F
+Humidity: 44.5 %
+January 14, 2022 9:28 AM
+Temperature: 67 F
+Humidity: 44.1 %
+January 14, 2022 9:48 AM
+Temperature: 68 F
+Humidity: 43.8 %
+January 14, 2022 10:08 AM
+Temperature: 68 F
+Humidity: 43.8 %
+January 14, 2022 10:28 AM
+Temperature: 67 F
+Humidity: 43.8 %
+January 14, 2022 10:48 AM
+Temperature: 67 F
+Humidity: 44.0 %
+January 14, 2022 11:08 AM
+Temperature: 67 F
+Humidity: 44.2 %
+January 14, 2022 11:28 AM
+Temperature: 69 F
+Humidity: 42.5 %
+January 14, 2022 11:48 AM
+Temperature: 69 F
+Humidity: 42.8 %
+January 14, 2022 12:08 PM
+Temperature: 69 F
+Humidity: 42.7 %
+January 14, 2022 12:28 PM
+Temperature: 69 F
+Humidity: 42.8 %
+January 14, 2022 12:48 PM
+Temperature: 68 F
+Humidity: 43.0 %
+January 14, 2022 1:08 PM
+Temperature: 68 F
+Humidity: 42.9 %
+January 14, 2022 1:28 PM
+Temperature: 68 F
+Humidity: 42.9 %
+January 14, 2022 1:48 PM
+Temperature: 68 F
+Humidity: 42.7 %
+January 14, 2022 2:08 PM
+Temperature: 67 F
+Humidity: 43.1 %
+January 14, 2022 2:28 PM
+Temperature: 67 F
+Humidity: 43.1 %
+January 14, 2022 2:48 PM
+Temperature: 67 F
+Humidity: 43.0 %
+January 14, 2022 3:08 PM
+Temperature: 67 F
+Humidity: 41.5 %
+January 14, 2022 3:28 PM
+Temperature: 69 F
+Humidity: 42.2 %
+January 14, 2022 3:48 PM
+Temperature: 68 F
+Humidity: 43.3 %
+January 14, 2022 4:08 PM
+Temperature: 68 F
+Humidity: 43.6 %
+January 14, 2022 4:28 PM
+Temperature: 68 F
+Humidity: 43.5 %
+January 14, 2022 4:48 PM
+Temperature: 67 F
+Humidity: 43.3 %
+January 14, 2022 5:08 PM
+Temperature: 67 F
+Humidity: 43.3 %
+January 14, 2022 5:28 PM
+Temperature: 66 F
+Humidity: 43.3 %
+January 14, 2022 5:48 PM
+Temperature: 66 F
+Humidity: 43.4 %
+January 14, 2022 6:08 PM
+Temperature: 67 F
+Humidity: 43.0 %
+January 14, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 43.1 %
+January 14, 2022 6:48 PM
+Temperature: 66 F
+Humidity: 43.5 %
+January 14, 2022 7:08 PM
+Temperature: 66 F
+Humidity: 43.2 %
+January 14, 2022 7:28 PM
+Temperature: 65 F
+Humidity: 43.2 %
+January 14, 2022 7:48 PM
+Temperature: 65 F
+Humidity: 43.3 %
+January 14, 2022 8:08 PM
+Temperature: 65 F
+Humidity: 43.5 %
+January 14, 2022 8:28 PM
+Temperature: 66 F
+Humidity: 43.0 %
+January 14, 2022 8:48 PM
+Temperature: 66 F
+Humidity: 43.3 %
+January 14, 2022 9:08 PM
+Temperature: 66 F
+Humidity: 43.4 %
+January 14, 2022 9:28 PM
+Temperature: 65 F
+Humidity: 43.3 %
+January 14, 2022 9:48 PM
+Temperature: 65 F
+Humidity: 43.5 %
+January 14, 2022 10:08 PM
+Temperature: 65 F
+Humidity: 43.5 %
+January 14, 2022 10:28 PM
+Temperature: 64 F
+Humidity: 43.7 %
+January 14, 2022 10:48 PM
+Temperature: 65 F
+Humidity: 43.3 %
+January 14, 2022 11:08 PM
+Temperature: 65 F
+Humidity: 43.5 %
+January 14, 2022 11:28 PM
+Temperature: 65 F
+Humidity: 43.6 %
+January 14, 2022 11:48 PM
+Temperature: 65 F
+Humidity: 44.1 %
+January 15, 2022 12:08 AM
+Temperature: 65 F
+Humidity: 44.5 %
+January 15, 2022 12:28 AM
+Temperature: 64 F
+Humidity: 44.4 %
+January 15, 2022 12:48 AM
+Temperature: 64 F
+Humidity: 44.0 %
+January 15, 2022 1:08 AM
+Temperature: 65 F
+Humidity: 43.7 %
+January 15, 2022 1:28 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 65 F
+Humidity: 44.0 %
+January 15, 2022 1:48 AM
+Temperature: 65 F
+Humidity: 44.0 %
+January 15, 2022 2:08 AM
+Temperature: 64 F
+Humidity: 44.1 %
+January 15, 2022 2:28 AM
+Temperature: 64 F
+Humidity: 44.8 %
+January 15, 2022 2:48 AM
+Temperature: 64 F
+Humidity: 45.7 %
+January 15, 2022 3:08 AM
+Temperature: 66 F
+Humidity: 47.6 %
+January 15, 2022 3:28 AM
+Temperature: 66 F
+Humidity: 47.1 %
+January 15, 2022 3:48 AM
+Temperature: 66 F
+Humidity: 47.2 %
+January 15, 2022 4:08 AM
+Temperature: 66 F
+Humidity: 47.9 %
+January 15, 2022 4:28 AM
+Temperature: 66 F
+Humidity: 47.3 %
+January 15, 2022 4:48 AM
+Temperature: 66 F
+Humidity: 46.8 %
+January 15, 2022 5:08 AM
+Temperature: 66 F
+Humidity: 46.5 %
+January 15, 2022 5:28 AM
+Temperature: 66 F
+Humidity: 46.2 %
+January 15, 2022 5:48 AM
+Temperature: 66 F
+Humidity: 45.9 %
+January 15, 2022 6:08 AM
+Temperature: 66 F
+Humidity: 45.7 %
+January 15, 2022 6:28 AM
+Temperature: 67 F
+Humidity: 44.1 %
+January 15, 2022 6:48 AM
+Temperature: 67 F
+Humidity: 44.7 %
+January 15, 2022 7:08 AM
+Temperature: 67 F
+Humidity: 44.4 %
+January 15, 2022 7:28 AM
+Temperature: 67 F
+Humidity: 44.4 %
+January 15, 2022 7:48 AM
+Temperature: 67 F
+Humidity: 44.0 %
+January 15, 2022 8:08 AM
+Temperature: 67 F
+Humidity: 44.0 %
+January 15, 2022 8:28 AM
+Temperature: 67 F
+Humidity: 44.4 %
+January 15, 2022 8:48 AM
+Temperature: 66 F
+Humidity: 44.9 %
+January 15, 2022 9:08 AM
+Temperature: 67 F
+Humidity: 45.5 %
+January 15, 2022 9:28 AM
+Temperature: 67 F
+Humidity: 45.1 %
+January 15, 2022 9:48 AM
+Temperature: 67 F
+Humidity: 46.3 %
+January 15, 2022 10:08 AM
+Temperature: 67 F
+Humidity: 46.6 %
+January 15, 2022 10:28 AM
+Temperature: 67 F
+Humidity: 46.9 %
+January 15, 2022 10:48 AM
+Temperature: 67 F
+Humidity: 47.5 %
+January 15, 2022 11:08 AM
+Temperature: 67 F
+Humidity: 46.5 %
+January 15, 2022 11:28 AM
+Temperature: 67 F
+Humidity: 46.0 %
+January 15, 2022 11:48 AM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 67 F
+Humidity: 45.5 %
+January 15, 2022 12:08 PM
+Temperature: 67 F
+Humidity: 45.1 %
+January 15, 2022 12:28 PM
+Temperature: 68 F
+Humidity: 44.6 %
+January 15, 2022 12:48 PM
+Temperature: 67 F
+Humidity: 44.6 %
+January 15, 2022 1:08 PM
+Temperature: 67 F
+Humidity: 44.4 %
+January 15, 2022 1:28 PM
+Temperature: 67 F
+Humidity: 44.3 %
+January 15, 2022 1:48 PM
+Temperature: 67 F
+Humidity: 44.3 %
+January 15, 2022 2:08 PM
+Temperature: 67 F
+Humidity: 44.2 %
+January 15, 2022 2:28 PM
+Temperature: 66 F
+Humidity: 47.6 %
+January 15, 2022 2:48 PM
+Temperature: 66 F
+Humidity: 46.6 %
+January 15, 2022 3:08 PM
+Temperature: 66 F
+Humidity: 47.3 %
+January 15, 2022 3:28 PM
+Temperature: 67 F
+Humidity: 47.4 %
+January 15, 2022 3:48 PM
+Temperature: 66 F
+Humidity: 43.0 %
+January 15, 2022 4:08 PM
+Temperature: 65 F
+Humidity: 41.6 %
+January 15, 2022 4:28 PM
+Temperature: 65 F
+Humidity: 40.0 %
+January 15, 2022 4:48 PM
+Temperature: 65 F
+Humidity: 41.0 %
+January 15, 2022 5:08 PM
+Temperature: 67 F
+Humidity: 41.9 %
+January 15, 2022 5:28 PM
+Temperature: 67 F
+Humidity: 43.4 %
+January 15, 2022 5:48 PM
+Temperature: 67 F
+Humidity: 43.5 %
+January 15, 2022 6:08 PM
+Temperature: 66 F
+Humidity: 43.6 %
+January 15, 2022 6:28 PM
+Temperature: 66 F
+Humidity: 43.7 %
+January 15, 2022 6:48 PM
+Temperature: 66 F
+Humidity: 43.9 %
+January 15, 2022 7:08 PM
+Temperature: 65 F
+Humidity: 43.8 %
+January 15, 2022 7:28 PM
+Temperature: 65 F
+Humidity: 44.4 %
+January 15, 2022 7:48 PM
+Temperature: 65 F
+Humidity: 44.1 %
+January 15, 2022 8:08 PM
+Temperature: 66 F
+Humidity: 43.4 %
+January 15, 2022 8:28 PM
+Temperature: 66 F
+Humidity: 43.2 %
+January 15, 2022 8:48 PM
+Temperature: 66 F
+Humidity: 43.2 %
+January 15, 2022 9:08 PM
+Temperature: 65 F
+Humidity: 43.5 %
+January 15, 2022 9:28 PM
+Temperature: 65 F
+Humidity: 43.3 %
+January 15, 2022 9:48 PM
+Temperature: 64 F
+Humidity: 43.3 %
+January 15, 2022 10:08 PM
+Temperature: 66 F
+Humidity: 43.0 %
+January 15, 2022 10:28 PM
+Temperature: 66 F
+Humidity: 43.4 %
+January 15, 2022 10:48 PM
+Temperature: 65 F
+Humidity: 43.0 %
+January 15, 2022 11:08 PM
+Temperature: 65 F
+Humidity: 43.0 %
+January 15, 2022 11:28 PM
+Temperature: 65 F
+Humidity: 43.2 %
+January 15, 2022 11:48 PM
+Temperature: 64 F
+Humidity: 43.6 %
+January 16, 2022 12:08 AM
+Temperature: 65 F
+Humidity: 43.5 %
+January 16, 2022 12:28 AM
+Temperature: 66 F
+Humidity: 43.6 %
+January 16, 2022 12:48 AM
+Temperature: 65 F
+Humidity: 43.3 %
+January 16, 2022 1:08 AM
+Temperature: 65 F
+Humidity: 43.3 %
+January 16, 2022 1:28 AM
+Temperature: 64 F
+Humidity: 43.7 %
+January 16, 2022 1:48 AM
+Temperature: 64 F
+Humidity: 43.6 %
+January 16, 2022 2:08 AM
+Temperature: 64 F
+Humidity: 43.8 %
+January 16, 2022 2:28 AM
+Temperature: 66 F
+Humidity: 43.2 %
+January 16, 2022 2:48 AM
+Temperature: 65 F
+Humidity: 45.9 %
+January 16, 2022 3:08 AM
+Temperature: 65 F
+Humidity: 47.6 %
+January 16, 2022 3:28 AM
+Temperature: 65 F
+Humidity: 47.4 %
+January 16, 2022 3:48 AM
+Temperature: 65 F
+Humidity: 47.0 %
+January 16, 2022 4:08 AM
+Temperature: 64 F
+Humidity: 47.6 %
+January 16, 2022 4:28 AM
+Temperature: 64 F
+Humidity: 47.7 %
+January 16, 2022 4:48 AM
+Temperature: 64 F
+Humidity: 47.4 %
+January 16, 2022 5:08 AM
+Temperature: 64 F
+Humidity: 47.2 %
+January 16, 2022 5:28 AM
+Temperature: 65 F
+Humidity: 46.7 %
+January 16, 2022 5:48 AM
+Temperature: 66 F
+Humidity: 45.9 %
+January 16, 2022 6:08 AM
+Temperature: 66 F
+Humidity: 47.0 %
+January 16, 2022 6:28 AM
+Temperature: 67 F
+Humidity: 48.1 %
+January 16, 2022 6:48 AM
+Temperature: 67 F
+Humidity: 47.7 %
+January 16, 2022 7:08 AM
+Temperature: 67 F
+Humidity: 46.6 %
+January 16, 2022 7:28 AM
+Temperature: 67 F
+Humidity: 46.1 %
+January 16, 2022 7:48 AM
+Temperature: 67 F
+Humidity: 45.5 %
+January 16, 2022 8:08 AM
+Temperature: 68 F
+Humidity: 44.8 %
+January 16, 2022 8:28 AM
+Temperature: 68 F
+Humidity: 44.4 %
+January 16, 2022 8:48 AM
+Temperature: 68 F
+Humidity: 44.5 %
+January 16, 2022 9:08 AM
+Temperature: 68 F
+Humidity: 44.7 %
+January 16, 2022 9:28 AM
+Temperature: 68 F
+Humidity: 44.8 %
+January 16, 2022 9:48 AM
+Temperature: 68 F
+Humidity: 42.3 %
+January 16, 2022 10:08 AM
+Temperature: 68 F
+Humidity: 43.8 %
+January 16, 2022 10:28 AM
+Temperature: 68 F
+Humidity: 43.6 %
+January 16, 2022 10:48 AM
+Temperature: 68 F
+Humidity: 43.8 %
+January 16, 2022 11:08 AM
+Temperature: 68 F
+Humidity: 43.8 %
+January 16, 2022 11:28 AM
+Temperature: 68 F
+Humidity: 43.9 %
+January 16, 2022 11:48 AM
+Temperature: 68 F
+Humidity: 43.8 %
+January 16, 2022 12:08 PM
+Temperature: 68 F
+Humidity: 43.6 %
+January 16, 2022 12:28 PM
+Temperature: 69 F
+Humidity: 42.5 %
+January 16, 2022 12:48 PM
+Temperature: 69 F
+Humidity: 43.0 %
+January 16, 2022 1:08 PM
+Temperature: 68 F
+Humidity: 43.6 %
+January 16, 2022 1:28 PM
+Temperature: 68 F
+Humidity: 43.6 %
+January 16, 2022 1:48 PM
+Temperature: 68 F
+Humidity: 43.9 %
+January 16, 2022 2:08 PM
+Temperature: 68 F
+Humidity: 43.9 %
+January 16, 2022 2:28 PM
+Temperature: 68 F
+Humidity: 45.6 %
+January 16, 2022 2:48 PM
+Temperature: 68 F
+Humidity: 47.6 %
+January 16, 2022 3:08 PM
+Temperature: 68 F
+Humidity: 48.1 %
+January 16, 2022 3:28 PM
+Temperature: 67 F
+Humidity: 47.6 %
+January 16, 2022 3:48 PM
+Temperature: 67 F
+Humidity: 47.4 %
+January 16, 2022 4:08 PM
+Temperature: 67 F
+Humidity: 47.1 %
+January 16, 2022 4:28 PM
+Temperature: 69 F
+Humidity: 44.8 %
+January 16, 2022 4:48 PM
+Temperature: 68 F
+Humidity: 45.6 %
+January 16, 2022 5:08 PM
+Temperature: 67 F
+Humidity: 46.0 %
+January 16, 2022 5:28 PM
+Temperature: 67 F
+Humidity: 45.9 %
+January 16, 2022 5:48 PM
+Temperature: 67 F
+Humidity: 46.1 %
+January 16, 2022 6:08 PM
+Temperature: 66 F
+Humidity: 46.1 %
+January 16, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 45.3 %
+January 16, 2022 6:48 PM
+Temperature: 67 F
+Humidity: 43.8 %
+January 16, 2022 7:08 PM
+Temperature: 67 F
+Humidity: 44.9 %
+January 16, 2022 7:28 PM
+Temperature: 66 F
+Humidity: 45.2 %
+January 16, 2022 7:48 PM
+Temperature: 66 F
+Humidity: 45.4 %
+January 16, 2022 8:08 PM
+Temperature: 65 F
+Humidity: 45.5 %
+January 16, 2022 8:28 PM
+Temperature: 65 F
+Humidity: 45.3 %
+January 16, 2022 8:48 PM
+Temperature: 66 F
+Humidity: 44.6 %
+January 16, 2022 9:08 PM
+Temperature: 66 F
+Humidity: 44.6 %
+January 16, 2022 9:28 PM
+Temperature: 66 F
+Humidity: 45.0 %
+January 16, 2022 9:48 PM
+Temperature: 66 F
+Humidity: 44.7 %
+January 16, 2022 10:08 PM
+Temperature: 65 F
+Humidity: 44.8 %
+January 16, 2022 10:28 PM
+Temperature: 65 F
+Humidity: 45.1 %
+January 16, 2022 10:48 PM
+Temperature: 64 F
+Humidity: 45.0 %
+January 16, 2022 11:08 PM
+Temperature: 66 F
+Humidity: 44.4 %
+January 16, 2022 11:28 PM
+Temperature: 66 F
+Humidity: 44.6 %
+January 16, 2022 11:48 PM
+Temperature: 65 F
+Humidity: 44.7 %
+January 17, 2022 12:08 AM
+Temperature: 65 F
+Humidity: 44.5 %
+January 17, 2022 12:28 AM
+Temperature: 65 F
+Humidity: 44.6 %
+January 17, 2022 12:48 AM
+Temperature: 64 F
+Humidity: 44.8 %
+January 17, 2022 1:08 AM
+Temperature: 65 F
+Humidity: 45.0 %
+January 17, 2022 1:28 AM
+Temperature: 65 F
+Humidity: 44.8 %
+January 17, 2022 1:48 AM
+Temperature: 65 F
+Humidity: 44.6 %
+January 17, 2022 2:08 AM
+Temperature: 65 F
+Humidity: 44.4 %
+January 17, 2022 2:28 AM
+Temperature: 64 F
+Humidity: 43.8 %
+January 17, 2022 2:48 AM
+Temperature: 64 F
+Humidity: 44.5 %
+January 17, 2022 3:08 AM
+Temperature: 64 F
+Humidity: 44.8 %
+January 17, 2022 3:28 AM
+Temperature: 65 F
+Humidity: 44.7 %
+January 17, 2022 3:48 AM
+Temperature: 65 F
+Humidity: 44.9 %
+January 17, 2022 4:08 AM
+Temperature: 65 F
+Humidity: 44.9 %
+January 17, 2022 4:28 AM
+Temperature: 64 F
+Humidity: 45.3 %
+January 17, 2022 4:48 AM
+Temperature: 64 F
+Humidity: 45.5 %
+January 17, 2022 5:08 AM
+Temperature: 64 F
+Humidity: 45.6 %
+January 17, 2022 5:28 AM
+Temperature: 64 F
+Humidity: 46.7 %
+January 17, 2022 5:48 AM
+Temperature: 64 F
+Humidity: 47.0 %
+January 17, 2022 6:08 AM
+Temperature: 64 F
+Humidity: 46.7 %
+January 17, 2022 6:28 AM
+Temperature: 66 F
+Humidity: 45.0 %
+January 17, 2022 6:48 AM
+Temperature: 66 F
+Humidity: 45.2 %
+January 17, 2022 7:08 AM
+Temperature: 66 F
+Humidity: 45.3 %
+January 17, 2022 7:28 AM
+Temperature: 66 F
+Humidity: 46.1 %
+January 17, 2022 7:48 AM
+Temperature: 67 F
+Humidity: 44.7 %
+January 17, 2022 8:08 AM
+Temperature: 67 F
+Humidity: 45.7 %
+January 17, 2022 8:28 AM
+Temperature: 67 F
+Humidity: 44.0 %
+January 17, 2022 8:48 AM
+Temperature: 67 F
+Humidity: 43.8 %
+January 17, 2022 9:08 AM
+Temperature: 67 F
+Humidity: 43.4 %
+January 17, 2022 9:28 AM
+Temperature: 67 F
+Humidity: 43.1 %
+January 17, 2022 9:48 AM
+Temperature: 67 F
+Humidity: 43.0 %
+January 17, 2022 10:08 AM
+Temperature: 67 F
+Humidity: 43.2 %
+January 17, 2022 10:28 AM
+Temperature: 67 F
+Humidity: 43.2 %
+January 17, 2022 10:48 AM
+Temperature: 68 F
+Humidity: 41.9 %
+January 17, 2022 11:08 AM
+Temperature: 68 F
+Humidity: 42.6 %
+January 17, 2022 11:28 AM
+Temperature: 68 F
+Humidity: 42.7 %
+January 17, 2022 11:48 AM
+Temperature: 67 F
+Humidity: 42.7 %
+January 17, 2022 12:08 PM
+Temperature: 67 F
+Humidity: 42.7 %
+January 17, 2022 12:28 PM
+Temperature: 67 F
+Humidity: 42.9 %
+January 17, 2022 12:48 PM
+Temperature: 67 F
+Humidity: 42.9 %
+January 17, 2022 1:08 PM
+Temperature: 67 F
+Humidity: 43.4 %
+January 17, 2022 1:28 PM
+Temperature: 67 F
+Humidity: 43.4 %
+January 17, 2022 1:48 PM
+Temperature: 67 F
+Humidity: 42.7 %
+January 17, 2022 2:08 PM
+Temperature: 68 F
+Humidity: 42.0 %
+January 17, 2022 2:28 PM
+Temperature: 68 F
+Humidity: 42.5 %
+January 17, 2022 2:48 PM
+Temperature: 68 F
+Humidity: 43.7 %
+January 17, 2022 3:08 PM
+Temperature: 67 F
+Humidity: 44.9 %
+January 17, 2022 3:28 PM
+Temperature: 67 F
+Humidity: 44.8 %
+January 17, 2022 3:48 PM
+Temperature: 67 F
+Humidity: 44.5 %
+January 17, 2022 4:08 PM
+Temperature: 67 F
+Humidity: 44.4 %
+January 17, 2022 4:28 PM
+Temperature: 66 F
+Humidity: 44.1 %
+January 17, 2022 4:48 PM
+Temperature: 66 F
+Humidity: 43.9 %
+January 17, 2022 5:08 PM
+Temperature: 67 F
+Humidity: 42.9 %
+January 17, 2022 5:28 PM
+Temperature: 67 F
+Humidity: 43.2 %
+January 17, 2022 5:48 PM
+Temperature: 67 F
+Humidity: 43.2 %
+January 17, 2022 6:08 PM
+Temperature: 66 F
+Humidity: 43.2 %
+January 17, 2022 6:28 PM
+Temperature: 65 F
+Humidity: 43.2 %
+January 17, 2022 6:48 PM
+Temperature: 65 F
+Humidity: 43.3 %
+January 17, 2022 7:08 PM
+Temperature: 65 F
+Humidity: 43.6 %
+January 17, 2022 7:28 PM
+Temperature: 66 F
+Humidity: 43.3 %
+January 17, 2022 7:48 PM
+Temperature: 66 F
+Humidity: 43.2 %
+January 17, 2022 8:08 PM
+Temperature: 66 F
+Humidity: 43.1 %
+January 17, 2022 8:28 PM
+Temperature: 65 F
+Humidity: 43.1 %
+January 17, 2022 8:48 PM
+Temperature: 64 F
+Humidity: 43.7 %
+January 17, 2022 9:08 PM
+Temperature: 64 F
+Humidity: 44.3 %
+January 17, 2022 9:28 PM
+Temperature: 65 F
+Humidity: 44.3 %
+January 17, 2022 9:48 PM
+Temperature: 65 F
+Humidity: 44.9 %
+January 17, 2022 10:08 PM
+Temperature: 64 F
+Humidity: 45.1 %
+January 17, 2022 10:28 PM
+Temperature: 64 F
+Humidity: 45.3 %
+January 17, 2022 10:48 PM
+Temperature: 63 F
+Humidity: 45.6 %
+January 17, 2022 11:08 PM
+Temperature: 63 F
+Humidity: 47.6 %
+January 17, 2022 11:28 PM
+Temperature: 63 F
+Humidity: 49.0 %
+January 17, 2022 11:48 PM
+Temperature: 64 F
+Humidity: 46.9 %
+January 18, 2022 12:08 AM
+Temperature: 63 F
+Humidity: 48.1 %
+January 18, 2022 12:28 AM
+Temperature: 63 F
+Humidity: 48.3 %
+January 18, 2022 12:48 AM
+Temperature: 63 F
+Humidity: 47.8 %
+January 18, 2022 1:08 AM
+Temperature: 63 F
+Humidity: 47.3 %
+January 18, 2022 1:28 AM
+Temperature: 64 F
+Humidity: 45.6 %
+January 18, 2022 1:48 AM
+Temperature: 63 F
+Humidity: 46.8 %
+January 18, 2022 2:08 AM
+Temperature: 63 F
+Humidity: 47.3 %
+January 18, 2022 2:28 AM
+Temperature: 62 F
+Humidity: 47.6 %
+January 18, 2022 2:48 AM
+Temperature: 63 F
+Humidity: 47.6 %
+January 18, 2022 3:08 AM
+Temperature: 64 F
+Humidity: 46.2 %
+January 18, 2022 3:28 AM
+Temperature: 63 F
+Humidity: 48.0 %
+January 18, 2022 3:48 AM
+Temperature: 63 F
+Humidity: 48.1 %
+January 18, 2022 4:08 AM
+Temperature: 63 F
+Humidity: 48.0 %
+January 18, 2022 4:28 AM
+Temperature: 62 F
+Humidity: 50.0 %
+January 18, 2022 4:48 AM
+Temperature: 62 F
+Humidity: 53.4 %
+January 18, 2022 5:08 AM
+Temperature: 65 F
+Humidity: 51.2 %
+January 18, 2022 5:28 AM
+Temperature: 65 F
+Humidity: 53.6 %
+January 18, 2022 5:48 AM
+Temperature: 65 F
+Humidity: 51.6 %
+January 18, 2022 6:08 AM
+Temperature: 66 F
+Humidity: 51.3 %
+January 18, 2022 6:28 AM
+Temperature: 66 F
+Humidity: 51.7 %
+January 18, 2022 6:48 AM
+Temperature: 66 F
+Humidity: 51.7 %
+January 18, 2022 7:08 AM
+Temperature: 67 F
+Humidity: 49.8 %
+January 18, 2022 7:28 AM
+Temperature: 67 F
+Humidity: 48.8 %
+January 18, 2022 7:48 AM
+Temperature: 67 F
+Humidity: 48.0 %
+January 18, 2022 8:08 AM
+Temperature: 67 F
+Humidity: 47.8 %
+January 18, 2022 8:28 AM
+Temperature: 67 F
+Humidity: 48.2 %
+January 18, 2022 8:48 AM
+Temperature: 67 F
+Humidity: 47.0 %
+January 18, 2022 9:08 AM
+Temperature: 67 F
+Humidity: 46.7 %
+January 18, 2022 9:28 AM
+Temperature: 67 F
+Humidity: 46.4 %
+January 18, 2022 9:48 AM
+Temperature: 67 F
+Humidity: 46.0 %
+January 18, 2022 10:08 AM
+Temperature: 67 F
+Humidity: 45.6 %
+January 18, 2022 10:28 AM
+Temperature: 68 F
+Humidity: 45.2 %
+January 18, 2022 10:48 AM
+Temperature: 68 F
+Humidity: 44.9 %
+January 18, 2022 11:08 AM
+Temperature: 68 F
+Humidity: 44.8 %
+January 18, 2022 11:28 AM
+Temperature: 68 F
+Humidity: 44.6 %
+January 18, 2022 11:48 AM
+Temperature: 68 F
+Humidity: 44.4 %
+January 18, 2022 12:08 PM
+Temperature: 69 F
+Humidity: 43.1 %
+January 18, 2022 12:28 PM
+Temperature: 69 F
+Humidity: 43.5 %
+January 18, 2022 12:48 PM
+Temperature: 68 F
+Humidity: 43.6 %
+January 18, 2022 1:08 PM
+Temperature: 68 F
+Humidity: 43.7 %
+January 18, 2022 1:28 PM
+Temperature: 68 F
+Humidity: 43.8 %
+January 18, 2022 1:48 PM
+Temperature: 68 F
+Humidity: 43.7 %
+January 18, 2022 2:08 PM
+Temperature: 67 F
+Humidity: 43.1 %
+January 18, 2022 2:28 PM
+Temperature: 67 F
+Humidity: 44.2 %
+January 18, 2022 2:48 PM
+Temperature: 67 F
+Humidity: 44.0 %
+January 18, 2022 3:08 PM
+Temperature: 67 F
+Humidity: 44.1 %
+January 18, 2022 3:28 PM
+Temperature: 68 F
+Humidity: 44.3 %
+January 18, 2022 3:48 PM
+Temperature: 68 F
+Humidity: 44.1 %
+January 18, 2022 4:08 PM
+Temperature: 68 F
+Humidity: 45.0 %
+January 18, 2022 4:28 PM
+Temperature: 68 F
+Humidity: 45.1 %
+January 18, 2022 4:48 PM
+Temperature: 67 F
+Humidity: 45.2 %
+January 18, 2022 5:08 PM
+Temperature: 67 F
+Humidity: 45.0 %
+January 18, 2022 5:28 PM
+Temperature: 67 F
+Humidity: 44.9 %
+January 18, 2022 5:48 PM
+Temperature: 67 F
+Humidity: 44.9 %
+January 18, 2022 6:08 PM
+Temperature: 66 F
+Humidity: 44.8 %
+January 18, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 43.5 %
+January 18, 2022 6:48 PM
+Temperature: 68 F
+Humidity: 43.3 %
+January 18, 2022 7:08 PM
+Temperature: 67 F
+Humidity: 43.6 %
+January 18, 2022 7:28 PM
+Temperature: 66 F
+Humidity: 43.8 %
+January 18, 2022 7:48 PM
+Temperature: 66 F
+Humidity: 43.8 %
+January 18, 2022 8:08 PM
+Temperature: 66 F
+Humidity: 43.7 %
+January 18, 2022 8:28 PM
+Temperature: 65 F
+Humidity: 43.7 %
+January 18, 2022 8:48 PM
+Temperature: 65 F
+Humidity: 43.7 %
+January 18, 2022 9:08 PM
+Temperature: 66 F
+Humidity: 43.8 %
+January 18, 2022 9:28 PM
+Temperature: 66 F
+Humidity: 43.7 %
+January 18, 2022 9:48 PM
+Temperature: 66 F
+Humidity: 43.6 %
+January 18, 2022 10:08 PM
+Temperature: 65 F
+Humidity: 43.6 %
+January 18, 2022 10:28 PM
+Temperature: 65 F
+Humidity: 43.5 %
+January 18, 2022 10:48 PM
+Temperature: 65 F
+Humidity: 43.6 %
+January 18, 2022 11:08 PM
+Temperature: 64 F
+Humidity: 43.5 %
+January 18, 2022 11:28 PM
+Temperature: 64 F
+Humidity: 44.1 %
+January 18, 2022 11:48 PM
+Temperature: 65 F
+Humidity: 43.7 %
+January 19, 2022 12:08 AM
+Temperature: 65 F
+Humidity: 43.7 %
+January 19, 2022 12:28 AM
+Temperature: 65 F
+Humidity: 43.7 %
+January 19, 2022 12:48 AM
+Temperature: 65 F
+Humidity: 43.5 %
+January 19, 2022 1:08 AM
+Temperature: 64 F
+Humidity: 43.6 %
+January 19, 2022 1:28 AM
+Temperature: 64 F
+Humidity: 44.5 %
+January 19, 2022 1:48 AM
+Temperature: 64 F
+Humidity: 45.4 %
+January 19, 2022 2:08 AM
+Temperature: 65 F
+Humidity: 44.8 %
+January 19, 2022 2:28 AM
+Temperature: 65 F
+Humidity: 44.2 %
+January 19, 2022 2:48 AM
+Temperature: 65 F
+Humidity: 44.1 %
+January 19, 2022 3:08 AM
+Temperature: 65 F
+Humidity: 43.9 %
+January 19, 2022 3:28 AM
+Temperature: 65 F
+Humidity: 43.9 %
+January 19, 2022 3:48 AM
+Temperature: 64 F
+Humidity: 43.9 %
+January 19, 2022 4:08 AM
+Temperature: 64 F
+Humidity: 45.7 %
+January 19, 2022 4:28 AM
+Temperature: 64 F
+Humidity: 48.1 %
+January 19, 2022 4:48 AM
+Temperature: 66 F
+Humidity: 46.4 %
+January 19, 2022 5:08 AM
+Temperature: 67 F
+Humidity: 45.9 %
+January 19, 2022 5:28 AM
+Temperature: 66 F
+Humidity: 46.3 %
+January 19, 2022 5:48 AM
+Temperature: 66 F
+Humidity: 45.9 %
+January 19, 2022 6:08 AM
+Temperature: 66 F
+Humidity: 45.6 %
+January 19, 2022 6:28 AM
+Temperature: 66 F
+Humidity: 46.3 %
+January 19, 2022 6:48 AM
+Temperature: 68 F
+Humidity: 44.8 %
+January 19, 2022 7:08 AM
+Temperature: 68 F
+Humidity: 44.0 %
+January 19, 2022 7:28 AM
+Temperature: 68 F
+Humidity: 43.9 %
+January 19, 2022 7:48 AM
+Temperature: 68 F
+Humidity: 43.7 %
+January 19, 2022 8:08 AM
+Temperature: 68 F
+Humidity: 43.6 %
+January 19, 2022 8:28 AM
+Temperature: 67 F
+Humidity: 43.9 %
+January 19, 2022 8:48 AM
+Temperature: 67 F
+Humidity: 44.0 %
+January 19, 2022 9:08 AM
+Temperature: 67 F
+Humidity: 43.7 %
+January 19, 2022 9:28 AM
+Temperature: 67 F
+Humidity: 43.4 %
+January 19, 2022 9:48 AM
+Temperature: 68 F
+Humidity: 43.2 %
+January 19, 2022 10:08 AM
+Temperature: 69 F
+Humidity: 43.9 %
+January 19, 2022 10:28 AM
+Temperature: 69 F
+Humidity: 44.2 %
+January 19, 2022 10:48 AM
+Temperature: 68 F
+Humidity: 44.3 %
+January 19, 2022 11:08 AM
+Temperature: 68 F
+Humidity: 43.9 %
+January 19, 2022 11:28 AM
+Temperature: 68 F
+Humidity: 43.7 %
+January 19, 2022 11:48 AM
+Temperature: 68 F
+Humidity: 43.6 %
+January 19, 2022 12:08 PM
+Temperature: 68 F
+Humidity: 43.3 %
+January 19, 2022 12:28 PM
+Temperature: 68 F
+Humidity: 43.2 %
+January 19, 2022 12:48 PM
+Temperature: 67 F
+Humidity: 43.2 %
+January 19, 2022 1:08 PM
+Temperature: 67 F
+Humidity: 43.3 %
+January 19, 2022 1:28 PM
+Temperature: 69 F
+Humidity: 41.4 %
+January 19, 2022 1:48 PM
+Temperature: 68 F
+Humidity: 42.0 %
+January 19, 2022 2:08 PM
+Temperature: 68 F
+Humidity: 42.3 %
+January 19, 2022 2:28 PM
+Temperature: 68 F
+Humidity: 42.3 %
+January 19, 2022 2:48 PM
+Temperature: 67 F
+Humidity: 42.6 %
+January 19, 2022 3:08 PM
+Temperature: 67 F
+Humidity: 42.6 %
+January 19, 2022 3:28 PM
+Temperature: 67 F
+Humidity: 43.0 %
+January 19, 2022 3:48 PM
+Temperature: 69 F
+Humidity: 43.2 %
+January 19, 2022 4:08 PM
+Temperature: 68 F
+Humidity: 45.4 %
+January 19, 2022 4:28 PM
+Temperature: 68 F
+Humidity: 45.9 %
+January 19, 2022 4:48 PM
+Temperature: 67 F
+Humidity: 46.1 %
+January 19, 2022 5:08 PM
+Temperature: 67 F
+Humidity: 45.8 %
+January 19, 2022 5:28 PM
+Temperature: 67 F
+Humidity: 46.1 %
+January 19, 2022 5:48 PM
+Temperature: 66 F
+Humidity: 45.8 %
+January 19, 2022 6:08 PM
+Temperature: 67 F
+Humidity: 44.0 %
+January 19, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 43.9 %
+January 19, 2022 6:48 PM
+Temperature: 67 F
+Humidity: 44.1 %
+January 19, 2022 7:08 PM
+Temperature: 66 F
+Humidity: 44.2 %
+January 19, 2022 7:28 PM
+Temperature: 66 F
+Humidity: 44.2 %
+January 19, 2022 7:48 PM
+Temperature: 65 F
+Humidity: 44.1 %
+January 19, 2022 8:08 PM
+Temperature: 66 F
+Humidity: 43.9 %
+January 19, 2022 8:28 PM
+Temperature: 67 F
+Humidity: 43.8 %
+January 19, 2022 8:48 PM
+Temperature: 66 F
+Humidity: 43.8 %
+January 19, 2022 9:08 PM
+Temperature: 66 F
+Humidity: 43.6 %
+January 19, 2022 9:28 PM
+Temperature: 65 F
+Humidity: 43.7 %
+January 19, 2022 9:48 PM
+Temperature: 65 F
+Humidity: 43.7 %
+January 19, 2022 10:08 PM
+Temperature: 66 F
+Humidity: 43.6 %
+January 19, 2022 10:28 PM
+Temperature: 66 F
+Humidity: 43.5 %
+January 19, 2022 10:48 PM
+Temperature: 66 F
+Humidity: 43.5 %
+January 19, 2022 11:08 PM
+Temperature: 65 F
+Humidity: 43.5 %
+January 19, 2022 11:28 PM
+Temperature: 65 F
+Humidity: 43.8 %
+January 19, 2022 11:48 PM
+Temperature: 64 F
+Humidity: 43.7 %
+January 20, 2022 12:08 AM
+Temperature: 66 F
+Humidity: 43.3 %
+January 20, 2022 12:28 AM
+Temperature: 66 F
+Humidity: 43.6 %
+January 20, 2022 12:48 AM
+Temperature: 65 F
+Humidity: 43.5 %
+January 20, 2022 1:08 AM
+Temperature: 65 F
+Humidity: 43.5 %
+January 20, 2022 1:28 AM
+Temperature: 64 F
+Humidity: 43.6 %
+January 20, 2022 1:48 AM
+Temperature: 64 F
+Humidity: 43.8 %
+January 20, 2022 2:08 AM
+Temperature: 65 F
+Humidity: 44.7 %
+January 20, 2022 2:28 AM
+Temperature: 65 F
+Humidity: 44.7 %
+January 20, 2022 2:48 AM
+Temperature: 65 F
+Humidity: 44.3 %
+January 20, 2022 3:08 AM
+Temperature: 65 F
+Humidity: 44.2 %
+January 20, 2022 3:28 AM
+Temperature: 64 F
+Humidity: 44.3 %
+January 20, 2022 3:48 AM
+Temperature: 65 F
+Humidity: 44.3 %
+January 20, 2022 4:08 AM
+Temperature: 65 F
+Humidity: 44.2 %
+January 20, 2022 4:28 AM
+Temperature: 65 F
+Humidity: 44.5 %
+January 20, 2022 4:48 AM
+Temperature: 65 F
+Humidity: 45.0 %
+January 20, 2022 5:08 AM
+Temperature: 65 F
+Humidity: 45.4 %
+January 20, 2022 5:28 AM
+Temperature: 65 F
+Humidity: 46.8 %
+January 20, 2022 5:48 AM
+Temperature: 66 F
+Humidity: 46.0 %
+January 20, 2022 6:08 AM
+Temperature: 67 F
+Humidity: 46.6 %
+January 20, 2022 6:28 AM
+Temperature: 67 F
+Humidity: 45.8 %
+January 20, 2022 6:48 AM
+Temperature: 67 F
+Humidity: 45.7 %
+January 20, 2022 7:08 AM
+Temperature: 67 F
+Humidity: 45.3 %
+January 20, 2022 7:28 AM
+Temperature: 67 F
+Humidity: 46.2 %
+January 20, 2022 7:48 AM
+Temperature: 68 F
+Humidity: 46.3 %
+January 20, 2022 8:08 AM
+Temperature: 69 F
+Humidity: 45.7 %
+January 20, 2022 8:28 AM
+Temperature: 69 F
+Humidity: 47.8 %
+January 20, 2022 8:48 AM
+Temperature: 69 F
+Humidity: 47.9 %
+January 20, 2022 9:08 AM
+Temperature: 69 F
+Humidity: 47.1 %
+January 20, 2022 9:28 AM
+Temperature: 69 F
+Humidity: 46.5 %
+January 20, 2022 9:48 AM
+Temperature: 69 F
+Humidity: 46.0 %
+January 20, 2022 10:08 AM
+Temperature: 69 F
+Humidity: 45.7 %
+January 20, 2022 10:28 AM
+Temperature: 70 F
+Humidity: 44.9 %
+January 20, 2022 10:48 AM
+Temperature: 70 F
+Humidity: 45.0 %
+January 20, 2022 11:08 AM
+Temperature: 70 F
+Humidity: 45.5 %
+January 20, 2022 11:28 AM
+Temperature: 70 F
+Humidity: 45.6 %
+January 20, 2022 11:48 AM
+Temperature: 70 F
+Humidity: 45.6 %
+January 20, 2022 12:08 PM
+Temperature: 70 F
+Humidity: 45.6 %
+January 20, 2022 12:28 PM
+Temperature: 70 F
+Humidity: 48.6 %
+January 20, 2022 12:48 PM
+Temperature: 70 F
+Humidity: 52.3 %
+January 20, 2022 1:08 PM
+Temperature: 70 F
+Humidity: 53.2 %
+January 20, 2022 1:28 PM
+Temperature: 70 F
+Humidity: 51.8 %
+January 20, 2022 1:48 PM
+Temperature: 70 F
+Humidity: 50.8 %
+January 20, 2022 2:08 PM
+Temperature: 70 F
+Humidity: 49.6 %
+January 20, 2022 2:28 PM
+Temperature: 69 F
+Humidity: 49.2 %
+January 20, 2022 2:48 PM
+Temperature: 69 F
+Humidity: 49.4 %
+January 20, 2022 3:08 PM
+Temperature: 69 F
+Humidity: 49.2 %
+January 20, 2022 3:28 PM
+Temperature: 69 F
+Humidity: 48.5 %
+January 20, 2022 3:48 PM
+Temperature: 69 F
+Humidity: 47.7 %
+January 20, 2022 4:08 PM
+Temperature: 68 F
+Humidity: 47.2 %
+January 20, 2022 4:28 PM
+Temperature: 68 F
+Humidity: 47.1 %
+January 20, 2022 4:48 PM
+Temperature: 67 F
+Humidity: 47.2 %
+January 20, 2022 5:08 PM
+Temperature: 68 F
+Humidity: 46.2 %
+January 20, 2022 5:28 PM
+Temperature: 69 F
+Humidity: 45.8 %
+January 20, 2022 5:48 PM
+Temperature: 68 F
+Humidity: 46.0 %
+January 20, 2022 6:08 PM
+Temperature: 68 F
+Humidity: 46.1 %
+January 20, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 46.2 %
+January 20, 2022 6:48 PM
+Temperature: 67 F
+Humidity: 46.3 %
+January 20, 2022 7:08 PM
+Temperature: 67 F
+Humidity: 46.4 %
+January 20, 2022 7:28 PM
+Temperature: 67 F
+Humidity: 46.2 %
+January 20, 2022 7:48 PM
+Temperature: 66 F
+Humidity: 46.3 %
+January 20, 2022 8:08 PM
+Temperature: 67 F
+Humidity: 45.6 %
+January 20, 2022 8:28 PM
+Temperature: 67 F
+Humidity: 45.6 %
+January 20, 2022 8:48 PM
+Temperature: 67 F
+Humidity: 45.5 %
+January 20, 2022 9:08 PM
+Temperature: 67 F
+Humidity: 45.5 %
+January 20, 2022 9:28 PM
+Temperature: 67 F
+Humidity: 45.7 %
+January 20, 2022 9:48 PM
+Temperature: 66 F
+Humidity: 45.6 %
+January 20, 2022 10:08 PM
+Temperature: 66 F
+Humidity: 45.6 %
+January 20, 2022 10:28 PM
+Temperature: 66 F
+Humidity: 45.6 %
+January 20, 2022 10:48 PM
+Temperature: 66 F
+Humidity: 45.5 %
+January 20, 2022 11:08 PM
+Temperature: 67 F
+Humidity: 45.1 %
+January 20, 2022 11:28 PM
+Temperature: 67 F
+Humidity: 45.3 %
+January 20, 2022 11:48 PM
+Temperature: 67 F
+Humidity: 45.2 %
+January 21, 2022 12:08 AM
+Temperature: 66 F
+Humidity: 45.6 %
+January 21, 2022 12:28 AM
+Temperature: 66 F
+Humidity: 45.6 %
+January 21, 2022 12:48 AM
+Temperature: 66 F
+Humidity: 45.5 %
+January 21, 2022 1:08 AM
+Temperature: 65 F
+Humidity: 45.5 %
+January 21, 2022 1:28 AM
+Temperature: 66 F
+Humidity: 45.3 %
+January 21, 2022 1:48 AM
+Temperature: 67 F
+Humidity: 45.5 %
+January 21, 2022 2:08 AM
+Temperature: 67 F
+Humidity: 45.6 %
+January 21, 2022 2:28 AM
+Temperature: 67 F
+Humidity: 45.8 %
+January 21, 2022 2:48 AM
+Temperature: 66 F
+Humidity: 45.9 %
+January 21, 2022 3:08 AM
+Temperature: 66 F
+Humidity: 45.8 %
+January 21, 2022 3:28 AM
+Temperature: 66 F
+Humidity: 46.0 %
+January 21, 2022 3:48 AM
+Temperature: 66 F
+Humidity: 46.0 %
+January 21, 2022 4:08 AM
+Temperature: 66 F
+Humidity: 46.0 %
+January 21, 2022 4:28 AM
+Temperature: 66 F
+Humidity: 46.4 %
+January 21, 2022 4:48 AM
+Temperature: 67 F
+Humidity: 47.1 %
+January 21, 2022 5:08 AM
+Temperature: 69 F
+Humidity: 45.9 %
+January 21, 2022 5:28 AM
+Temperature: 69 F
+Humidity: 47.0 %
+January 21, 2022 5:48 AM
+Temperature: 69 F
+Humidity: 46.4 %
+January 21, 2022 6:08 AM
+Temperature: 69 F
+Humidity: 46.5 %
+January 21, 2022 6:28 AM
+Temperature: 69 F
+Humidity: 46.7 %
+January 21, 2022 6:48 AM
+Temperature: 69 F
+Humidity: 46.4 %
+January 21, 2022 7:08 AM
+Temperature: 69 F
+Humidity: 46.1 %
+January 21, 2022 7:28 AM
+Temperature: 69 F
+Humidity: 45.9 %
+January 21, 2022 7:48 AM
+Temperature: 69 F
+Humidity: 45.4 %
+January 21, 2022 8:08 AM
+Temperature: 69 F
+Humidity: 45.2 %
+January 21, 2022 8:28 AM
+Temperature: 69 F
+Humidity: 45.0 %
+January 21, 2022 8:48 AM
+Temperature: 69 F
+Humidity: 44.9 %
+January 21, 2022 9:08 AM
+Temperature: 69 F
+Humidity: 44.9 %
+January 21, 2022 9:28 AM
+Temperature: 69 F
+Humidity: 44.9 %
+January 21, 2022 9:48 AM
+Temperature: 69 F
+Humidity: 44.7 %
+January 21, 2022 10:08 AM
+Temperature: 69 F
+Humidity: 44.7 %
+January 21, 2022 10:28 AM
+Temperature: 69 F
+Humidity: 44.6 %
+January 21, 2022 10:48 AM
+Temperature: 69 F
+Humidity: 44.5 %
+January 21, 2022 11:08 AM
+Temperature: 69 F
+Humidity: 44.3 %
+January 21, 2022 11:28 AM
+Temperature: 69 F
+Humidity: 44.3 %
+January 21, 2022 11:48 AM
+Temperature: 70 F
+Humidity: 43.2 %
+January 21, 2022 12:08 PM
+Temperature: 71 F
+Humidity: 42.7 %
+January 21, 2022 12:28 PM
+Temperature: 70 F
+Humidity: 43.2 %
+January 21, 2022 12:48 PM
+Temperature: 70 F
+Humidity: 43.5 %
+January 21, 2022 1:08 PM
+Temperature: undefined F
+Humidity: undefined %
+undefined
+Temperature: 69 F
+Humidity: 43.4 %
+January 21, 2022 1:28 PM
+Temperature: 69 F
+Humidity: 43.4 %
+January 21, 2022 1:48 PM
+Temperature: 69 F
+Humidity: 44.3 %
+January 21, 2022 2:08 PM
+Temperature: 69 F
+Humidity: 43.9 %
+January 21, 2022 2:28 PM
+Temperature: 69 F
+Humidity: 44.2 %
+January 21, 2022 2:48 PM
+Temperature: 69 F
+Humidity: 44.0 %
+January 21, 2022 3:08 PM
+Temperature: 69 F
+Humidity: 44.0 %
+January 21, 2022 3:28 PM
+Temperature: 69 F
+Humidity: 45.2 %
+January 21, 2022 3:48 PM
+Temperature: 70 F
+Humidity: 44.5 %
+January 21, 2022 4:08 PM
+Temperature: 69 F
+Humidity: 44.9 %
+January 21, 2022 4:28 PM
+Temperature: 69 F
+Humidity: 46.1 %
+January 21, 2022 4:48 PM
+Temperature: 69 F
+Humidity: 46.1 %
+January 21, 2022 5:08 PM
+Temperature: 69 F
+Humidity: 45.7 %
+January 21, 2022 5:28 PM
+Temperature: 68 F
+Humidity: 45.8 %
+January 21, 2022 5:48 PM
+Temperature: 68 F
+Humidity: 45.6 %
+January 21, 2022 6:08 PM
+Temperature: 67 F
+Humidity: 45.2 %
+January 21, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 45.1 %
+January 21, 2022 6:48 PM
+Temperature: 69 F
+Humidity: 44.4 %
+January 21, 2022 7:08 PM
+Temperature: 68 F
+Humidity: 44.3 %
+January 21, 2022 7:28 PM
+Temperature: 67 F
+Humidity: 44.4 %
+January 21, 2022 7:48 PM
+Temperature: 67 F
+Humidity: 44.5 %
+January 21, 2022 8:08 PM
+Temperature: 67 F
+Humidity: 44.5 %
+January 21, 2022 8:28 PM
+Temperature: 66 F
+Humidity: 44.4 %
+January 21, 2022 8:48 PM
+Temperature: 67 F
+Humidity: 44.4 %
+January 21, 2022 9:08 PM
+Temperature: 67 F
+Humidity: 44.0 %
+January 21, 2022 9:28 PM
+Temperature: 67 F
+Humidity: 44.3 %
+January 21, 2022 9:48 PM
+Temperature: 66 F
+Humidity: 44.3 %
+January 21, 2022 10:08 PM
+Temperature: 66 F
+Humidity: 44.1 %
+January 21, 2022 10:28 PM
+Temperature: 66 F
+Humidity: 44.2 %
+January 21, 2022 10:48 PM
+Temperature: 65 F
+Humidity: 44.7 %
+January 21, 2022 11:08 PM
+Temperature: 67 F
+Humidity: 43.7 %
+January 21, 2022 11:28 PM
+Temperature: 67 F
+Humidity: 43.9 %
+January 21, 2022 11:48 PM
+Temperature: 66 F
+Humidity: 44.1 %
+January 22, 2022 12:08 AM
+Temperature: 66 F
+Humidity: 44.0 %
+January 22, 2022 12:28 AM
+Temperature: 65 F
+Humidity: 44.0 %
+January 22, 2022 12:48 AM
+Temperature: 65 F
+Humidity: 44.4 %
+January 22, 2022 1:08 AM
+Temperature: 67 F
+Humidity: 43.6 %
+January 22, 2022 1:28 AM
+Temperature: 66 F
+Humidity: 43.9 %
+January 22, 2022 1:48 AM
+Temperature: 66 F
+Humidity: 44.5 %
+January 22, 2022 2:08 AM
+Temperature: 65 F
+Humidity: 44.9 %
+January 22, 2022 2:28 AM
+Temperature: 65 F
+Humidity: 46.7 %
+January 22, 2022 2:48 AM
+Temperature: 65 F
+Humidity: 47.2 %
+January 22, 2022 3:08 AM
+Temperature: 68 F
+Humidity: 45.4 %
+January 22, 2022 3:28 AM
+Temperature: 67 F
+Humidity: 44.7 %
+January 22, 2022 3:48 AM
+Temperature: 67 F
+Humidity: 44.3 %
+January 22, 2022 4:08 AM
+Temperature: 67 F
+Humidity: 44.5 %
+January 22, 2022 4:28 AM
+Temperature: 67 F
+Humidity: 44.6 %
+January 22, 2022 4:48 AM
+Temperature: 66 F
+Humidity: 44.4 %
+January 22, 2022 5:08 AM
+Temperature: 68 F
+Humidity: 43.9 %
+January 22, 2022 5:28 AM
+Temperature: 68 F
+Humidity: 42.9 %
+January 22, 2022 5:48 AM
+Temperature: 68 F
+Humidity: 43.4 %
+January 22, 2022 6:08 AM
+Temperature: 67 F
+Humidity: 43.6 %
+January 22, 2022 6:28 AM
+Temperature: 67 F
+Humidity: 43.8 %
+January 22, 2022 6:48 AM
+Temperature: 67 F
+Humidity: 44.3 %
+January 22, 2022 7:08 AM
+Temperature: 67 F
+Humidity: 44.0 %
+January 22, 2022 7:28 AM
+Temperature: 67 F
+Humidity: 43.7 %
+January 22, 2022 7:48 AM
+Temperature: 67 F
+Humidity: 43.3 %
+January 22, 2022 8:08 AM
+Temperature: 70 F
+Humidity: 41.1 %
+January 22, 2022 8:28 AM
+Temperature: 69 F
+Humidity: 41.6 %
+January 22, 2022 8:48 AM
+Temperature: 69 F
+Humidity: 41.8 %
+January 22, 2022 9:08 AM
+Temperature: 69 F
+Humidity: 41.9 %
+January 22, 2022 9:28 AM
+Temperature: 69 F
+Humidity: 42.1 %
+January 22, 2022 9:48 AM
+Temperature: 69 F
+Humidity: 42.0 %
+January 22, 2022 10:08 AM
+Temperature: 69 F
+Humidity: 42.0 %
+January 22, 2022 10:28 AM
+Temperature: 69 F
+Humidity: 42.0 %
+January 22, 2022 10:48 AM
+Temperature: 69 F
+Humidity: 41.8 %
+January 22, 2022 11:08 AM
+Temperature: 69 F
+Humidity: 41.7 %
+January 22, 2022 11:28 AM
+Temperature: 68 F
+Humidity: 42.1 %
+January 22, 2022 11:48 AM
+Temperature: 69 F
+Humidity: 41.8 %
+January 22, 2022 12:08 PM
+Temperature: 68 F
+Humidity: 42.1 %
+January 22, 2022 12:28 PM
+Temperature: 71 F
+Humidity: 40.3 %
+January 22, 2022 12:48 PM
+Temperature: 69 F
+Humidity: 41.3 %
+January 22, 2022 1:08 PM
+Temperature: 69 F
+Humidity: 41.6 %
+January 22, 2022 1:28 PM
+Temperature: 69 F
+Humidity: 41.5 %
+January 22, 2022 1:48 PM
+Temperature: 69 F
+Humidity: 41.6 %
+January 22, 2022 2:08 PM
+Temperature: 68 F
+Humidity: 42.0 %
+January 22, 2022 2:28 PM
+Temperature: 68 F
+Humidity: 42.3 %
+January 22, 2022 2:48 PM
+Temperature: 68 F
+Humidity: 45.3 %
+January 22, 2022 3:08 PM
+Temperature: 70 F
+Humidity: 43.3 %
+January 22, 2022 3:28 PM
+Temperature: 69 F
+Humidity: 44.0 %
+January 22, 2022 3:48 PM
+Temperature: 68 F
+Humidity: 43.9 %
+January 22, 2022 4:08 PM
+Temperature: 68 F
+Humidity: 44.0 %
+January 22, 2022 4:28 PM
+Temperature: 68 F
+Humidity: 44.0 %
+January 22, 2022 4:48 PM
+Temperature: 68 F
+Humidity: 43.9 %
+January 22, 2022 5:08 PM
+Temperature: 68 F
+Humidity: 43.9 %
+January 22, 2022 5:28 PM
+Temperature: 69 F
+Humidity: 42.6 %
+January 22, 2022 5:48 PM
+Temperature: 68 F
+Humidity: 43.4 %
+January 22, 2022 6:08 PM
+Temperature: 67 F
+Humidity: 43.5 %
+January 22, 2022 6:28 PM
+Temperature: 67 F
+Humidity: 43.6 %
+January 22, 2022 6:48 PM
+Temperature: 66 F
+Humidity: 43.6 %
+January 22, 2022 7:08 PM
+Temperature: 66 F
+Humidity: 43.4 %
+January 22, 2022 7:28 PM
+Temperature: 68 F
+Humidity: 42.4 %
+January 22, 2022 7:48 PM
+Temperature: 67 F
+Humidity: 42.8 %
+January 22, 2022 8:08 PM
+Temperature: 67 F
+Humidity: 43.1 %
+January 22, 2022 8:28 PM
+Temperature: 66 F
+Humidity: 43.1 %
+January 22, 2022 8:48 PM
+Temperature: 66 F
+Humidity: 43.0 %
+January 22, 2022 9:08 PM
+Temperature: 65 F
+Humidity: 43.1 %
+January 22, 2022 9:28 PM
+Temperature: 67 F
+Humidity: 42.2 %
+January 22, 2022 9:48 PM
+Temperature: 67 F
+Humidity: 43.1 %
+January 22, 2022 10:08 PM
+Temperature: 66 F
+Humidity: 43.0 %
+January 22, 2022 10:28 PM
+Temperature: 66 F
+Humidity: 42.9 %
+January 22, 2022 10:48 PM
+Temperature: 65 F
+Humidity: 42.8 %
+January 22, 2022 11:08 PM
+Temperature: 65 F
+Humidity: 43.0 %
+January 22, 2022 11:28 PM
+Temperature: 68 F
+Humidity: 41.5 %
+January 22, 2022 11:48 PM
+Temperature: 66 F
+Humidity: 42.8 %
+January 23, 2022 12:08 AM
+Temperature: 66 F
+Humidity: 42.9 %
+January 23, 2022 12:28 AM
+Temperature: 65 F
+Humidity: 42.7 %
+January 23, 2022 12:48 AM
+Temperature: 65 F
+Humidity: 42.6 %
+January 23, 2022 1:08 AM
+Temperature: 65 F
+Humidity: 42.8 %
+January 23, 2022 1:28 AM
+Temperature: 67 F
+Humidity: 41.6 %
+January 23, 2022 1:48 AM
+Temperature: 66 F
+Humidity: 42.4 %
+January 23, 2022 2:08 AM
+Temperature: 66 F
+Humidity: 44.5 %
+January 23, 2022 2:28 AM
+Temperature: 66 F
+Humidity: 43.9 %
+January 23, 2022 2:48 AM
+Temperature: 66 F
+Humidity: 46.4 %
+January 23, 2022 3:08 AM
+Temperature: 66 F
+Humidity: 48.8 %
+January 23, 2022 3:28 AM
+Temperature: 66 F
+Humidity: 49.4 %
+January 23, 2022 3:48 AM
+Temperature: 68 F
+Humidity: 46.9 %
+January 23, 2022 4:08 AM
+Temperature: 68 F
+Humidity: 46.6 %
+January 23, 2022 4:28 AM
+Temperature: 68 F
+Humidity: 47.7 %
+January 23, 2022 4:48 AM
+Temperature: 68 F
+Humidity: 47.6 %
+January 23, 2022 5:08 AM
+Temperature: 67 F
+Humidity: 47.7 %
+January 23, 2022 5:28 AM
+Temperature: 67 F
+Humidity: 47.6 %
+January 23, 2022 5:48 AM
+Temperature: 67 F
+Humidity: 47.4 %
+January 23, 2022 6:08 AM
+Temperature: 67 F
+Humidity: 46.7 %
+January 23, 2022 6:28 AM
+Temperature: 67 F
+Humidity: 47.8 %
+January 23, 2022 6:48 AM
+Temperature: 67 F
+Humidity: 47.7 %
+January 23, 2022 7:08 AM
+Temperature: 69 F
+Humidity: 45.7 %
+January 23, 2022 7:28 AM
+Temperature: 69 F
+Humidity: 44.9 %
+January 23, 2022 7:48 AM
+Temperature: 69 F
+Humidity: 44.7 %
+January 23, 2022 8:08 AM
+Temperature: 69 F
+Humidity: 44.1 %
+January 23, 2022 8:28 AM
+Temperature: 69 F
+Humidity: 43.6 %
+January 23, 2022 8:48 AM
+Temperature: 69 F
+Humidity: 43.3 %
+January 23, 2022 9:08 AM
+Temperature: 69 F
+Humidity: 43.7 %
+January 23, 2022 9:28 AM
+Temperature: 68 F
+Humidity: 43.4 %
+January 23, 2022 9:48 AM
+Temperature: 68 F
+Humidity: 43.0 %
+January 23, 2022 10:08 AM
+Temperature: 68 F
+Humidity: 42.8 %
+January 23, 2022 10:28 AM
+Temperature: 68 F
+Humidity: 42.6 %
+January 23, 2022 10:48 AM
+Temperature: 68 F
+Humidity: 42.4 %
+January 23, 2022 11:08 AM
+Temperature: 68 F
+Humidity: 42.5 %
