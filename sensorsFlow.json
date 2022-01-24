@@ -1,0 +1,1700 @@
+[
+    {
+        "id": "74b8347d.aa0b44",
+        "type": "tab",
+        "label": "Sensors",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "d11dbb0a.f3a7d8",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "name": "20 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1200",
+        "crontab": "",
+        "once": false,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payloadType": "date",
+        "x": 100,
+        "y": 720,
+        "wires": [
+            [
+                "dfd5aa1c.16df08",
+                "e8858099.a03cc"
+            ]
+        ]
+    },
+    {
+        "id": "dfd5aa1c.16df08",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/DTHS1c.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 320,
+        "y": 700,
+        "wires": [
+            [
+                "f655cc7bb776308f",
+                "6c2867168b280f91"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f203d2b3.3dc0f",
+        "type": "file",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "filename": "/home/pi/temp/THsensorlog.txt",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 1110,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e8858099.a03cc",
+        "type": "moment",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "topic": "",
+        "input": "",
+        "inputType": "msg",
+        "inTz": "US/Mountain",
+        "adjAmount": "6",
+        "adjType": "hours",
+        "adjDir": "subtract",
+        "format": "LLL",
+        "locale": "en-US",
+        "output": "time",
+        "outputType": "msg",
+        "outTz": "US/Mountain",
+        "x": 280,
+        "y": 740,
+        "wires": [
+            [
+                "76a447094d7141d6"
+            ]
+        ]
+    },
+    {
+        "id": "a7224cdc.2b17f8",
+        "type": "ui_gauge",
+        "z": "74b8347d.aa0b44",
+        "name": "Temp Gauge",
+        "group": "160e81fb.f1c86e",
+        "order": 19,
+        "width": 6,
+        "height": 6,
+        "gtype": "gage",
+        "title": "Temperature",
+        "label": "Fahrenheit",
+        "format": "{{value}}",
+        "min": "50",
+        "max": "100",
+        "colors": [
+            "#0000b5",
+            "#008000",
+            "#bf0000"
+        ],
+        "seg1": "65",
+        "seg2": "85",
+        "x": 1050,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "8317cba7.873c5",
+        "type": "ui_gauge",
+        "z": "74b8347d.aa0b44",
+        "name": "Humidity Gauge",
+        "group": "160e81fb.f1c86e",
+        "order": 21,
+        "width": 6,
+        "height": 6,
+        "gtype": "donut",
+        "title": "Humidity",
+        "label": " %",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#bf0000",
+            "#008000",
+            "#0000b5"
+        ],
+        "seg1": "13",
+        "seg2": "",
+        "x": 1060,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "2b670b4b.2f9be4",
+        "type": "ui_chart",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "group": "160e81fb.f1c86e",
+        "order": 22,
+        "width": 20,
+        "height": 6,
+        "label": "Humidity Chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "monotone",
+        "nodata": "",
+        "dot": true,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": "4",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "x": 1060,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "783d9b84.16af24",
+        "type": "ui_chart",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "group": "160e81fb.f1c86e",
+        "order": 20,
+        "width": 20,
+        "height": 6,
+        "label": "Temperature Chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "monotone",
+        "nodata": "",
+        "dot": true,
+        "ymin": "50",
+        "ymax": "100",
+        "removeOlder": "4",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "x": 1070,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ccd92229.81de48",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/DTHS1.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "15",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 320,
+        "y": 520,
+        "wires": [
+            [
+                "c3ffa8e3.2f5528"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "7f1d0649.677308",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/DTHS1b.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "15",
+        "oldrc": false,
+        "name": "",
+        "x": 320,
+        "y": 640,
+        "wires": [
+            [
+                "8317cba7.873c5",
+                "2b670b4b.2f9be4",
+                "5a5f975d.ce92c"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "43527f8c.5ee268",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "name": "5 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "300",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "6",
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 520,
+        "wires": [
+            [
+                "ccd92229.81de48"
+            ]
+        ]
+    },
+    {
+        "id": "e66bea29.9a8998",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "name": "10 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "10",
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 100,
+        "y": 640,
+        "wires": [
+            [
+                "7f1d0649.677308"
+            ]
+        ]
+    },
+    {
+        "id": "c3ffa8e3.2f5528",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "CtoF",
+        "func": "    var tempc = msg.payload;\n    tempf = tempc * 9/5 + 32;\n    tempf = Math.round(tempf);\n    msg.payload = tempf;\n    return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 520,
+        "wires": [
+            [
+                "a7224cdc.2b17f8",
+                "2d8589dc.c2ea4e",
+                "7a546850.e06d28"
+            ]
+        ]
+    },
+    {
+        "id": "a26d56cf.a84df8",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 40,
+        "wires": [
+            [
+                "f160bb05.667e8"
+            ]
+        ]
+    },
+    {
+        "id": "f2bd2e7c.2aa718",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 40,
+        "wires": [
+            [
+                "a26d56cf.a84df8"
+            ]
+        ]
+    },
+    {
+        "id": "e9a2dc34.af5ce8",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor1.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 40,
+        "wires": [
+            [
+                "f2bd2e7c.2aa718"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "af78f1a3.760e9",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "name": "2 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "120",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "15",
+        "topic": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 40,
+        "wires": [
+            [
+                "e9a2dc34.af5ce8"
+            ]
+        ]
+    },
+    {
+        "id": "d8b91ae3.8afe5",
+        "type": "ui_gauge",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "group": "160e81fb.f1c86e",
+        "order": 10,
+        "width": 5,
+        "height": 3,
+        "gtype": "gage",
+        "title": "S1 Moisture level",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#b50000",
+            "#009d1c",
+            "#0902ff"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1070,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "f160bb05.667e8",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = y;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 880,
+        "y": 40,
+        "wires": [
+            [
+                "d8b91ae3.8afe5",
+                "c9c3891.437a7f8"
+            ]
+        ]
+    },
+    {
+        "id": "c258692a.25cfe",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 160,
+        "wires": [
+            [
+                "b0c53e85.bd0da"
+            ]
+        ]
+    },
+    {
+        "id": "c6699e43.1e0b28",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 160,
+        "wires": [
+            [
+                "c258692a.25cfe"
+            ]
+        ]
+    },
+    {
+        "id": "67b1770d.a8a278",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor2.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 160,
+        "wires": [
+            [
+                "c6699e43.1e0b28"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "83afdd9a.85d9f",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "d": true,
+        "name": "5 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "300",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "20",
+        "topic": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 220,
+        "wires": [
+            [
+                "7198045c.92436c"
+            ]
+        ]
+    },
+    {
+        "id": "b0c53e85.bd0da",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = y;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 880,
+        "y": 160,
+        "wires": [
+            [
+                "aeddb18c.27764",
+                "e92a1dd5.44cbf8"
+            ]
+        ]
+    },
+    {
+        "id": "c9b8c302.ccdc3",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 280,
+        "wires": [
+            [
+                "7102a930.d8457"
+            ]
+        ]
+    },
+    {
+        "id": "3352fdd.fdb0d02",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 280,
+        "wires": [
+            [
+                "c9b8c302.ccdc3"
+            ]
+        ]
+    },
+    {
+        "id": "bb710a9c.156c4",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor3.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 280,
+        "wires": [
+            [
+                "3352fdd.fdb0d02"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "c43fda00.416368",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "d": true,
+        "name": "5 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "300",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 340,
+        "wires": [
+            [
+                "3e2dd22e.b318f6"
+            ]
+        ]
+    },
+    {
+        "id": "7102a930.d8457",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = y;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 880,
+        "y": 280,
+        "wires": [
+            [
+                "33912225.1889fe",
+                "1b3c678.5b22f19"
+            ]
+        ]
+    },
+    {
+        "id": "229dcff9.399068",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 400,
+        "wires": [
+            [
+                "479a6afd.5b2ccc"
+            ]
+        ]
+    },
+    {
+        "id": "5a0da77c.62ece",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 400,
+        "wires": [
+            [
+                "229dcff9.399068"
+            ]
+        ]
+    },
+    {
+        "id": "3a18203c.8e75e",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor4.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 400,
+        "wires": [
+            [
+                "5a0da77c.62ece"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "a03d6237.8468f8",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "d": true,
+        "name": "5 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "300",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "40",
+        "topic": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 460,
+        "wires": [
+            [
+                "1d9b4d3d.2b904b"
+            ]
+        ]
+    },
+    {
+        "id": "479a6afd.5b2ccc",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = y;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 400,
+        "wires": [
+            [
+                "d8c8440a.c28f68",
+                "621ffdca.79174c"
+            ]
+        ]
+    },
+    {
+        "id": "aeddb18c.27764",
+        "type": "ui_gauge",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "group": "160e81fb.f1c86e",
+        "order": 11,
+        "width": 5,
+        "height": 3,
+        "gtype": "gage",
+        "title": "S2 Moisture level",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#b50000",
+            "#009d1c",
+            "#0902ff"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1070,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "33912225.1889fe",
+        "type": "ui_gauge",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "group": "160e81fb.f1c86e",
+        "order": 12,
+        "width": 5,
+        "height": 3,
+        "gtype": "gage",
+        "title": "S3 Moisture level",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#b50000",
+            "#009d1c",
+            "#0902ff"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1070,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "d8c8440a.c28f68",
+        "type": "ui_gauge",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "group": "160e81fb.f1c86e",
+        "order": 13,
+        "width": 5,
+        "height": 3,
+        "gtype": "gage",
+        "title": "S4 Moisture level",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#b50000",
+            "#009d1c",
+            "#0902ff"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1070,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "529454b8.30d24c",
+        "type": "file",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "filename": "/home/pi/temp/M2sensorlog.txt",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 1110,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dc7f91e3.889808",
+        "type": "file",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "filename": "/home/pi/temp/M3sensorlog.txt",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 1110,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "60831257.17420c",
+        "type": "file",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "filename": "/home/pi/temp/M4sensorlog.txt",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 1110,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "703ff5ad.c1b0cc",
+        "type": "file",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "filename": "/home/pi/temp/M1sensorlog.txt",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 1150,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e8ae2ef9.2cac68",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 100,
+        "wires": [
+            [
+                "be9e0181.778268"
+            ]
+        ]
+    },
+    {
+        "id": "249868a1.9a3628",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 100,
+        "wires": [
+            [
+                "e8ae2ef9.2cac68"
+            ]
+        ]
+    },
+    {
+        "id": "b96ebd99.8ac078",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor1a.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 100,
+        "wires": [
+            [
+                "249868a1.9a3628"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "c554cf2f.9c284",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "name": "10 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "9",
+        "topic": "",
+        "payloadType": "str",
+        "x": 100,
+        "y": 100,
+        "wires": [
+            [
+                "b96ebd99.8ac078"
+            ]
+        ]
+    },
+    {
+        "id": "be9e0181.778268",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = Date().replace(\"GMT-0700 (Mountain Daylight Time)\", \" \") + y;\nmsg.payload = msg.payload.replace(\"GMT-0700 (Mountain Standard Time)\", \" \");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 100,
+        "wires": [
+            [
+                "703ff5ad.c1b0cc",
+                "9b47b64701d1cac9"
+            ]
+        ]
+    },
+    {
+        "id": "2d8589dc.c2ea4e",
+        "type": "link out",
+        "z": "74b8347d.aa0b44",
+        "name": "Temperature Out",
+        "links": [
+            "232989b7.a868de",
+            "6416fe6b.ea5b48",
+            "969cda5e.95ab4",
+            "da5140a3.db7b1"
+        ],
+        "x": 1195,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "c9c3891.437a7f8",
+        "type": "link out",
+        "z": "74b8347d.aa0b44",
+        "name": "Moisture 1 Out",
+        "links": [
+            "b2baec8f.a4c8"
+        ],
+        "x": 1195,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "a18bbcf2.1e26f8",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/DTHS1a.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "15",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 320,
+        "y": 580,
+        "wires": [
+            [
+                "d1f45c2b.0dc05"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "fb416f70.8a5af8",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "name": "10 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 100,
+        "y": 580,
+        "wires": [
+            [
+                "a18bbcf2.1e26f8"
+            ]
+        ]
+    },
+    {
+        "id": "d1f45c2b.0dc05",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "CtoF",
+        "func": "    var tempc = msg.payload;\n    tempf = tempc * 9/5 + 32;\n    tempf = Math.round(tempf);\n    msg.payload = tempf;\n    return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 890,
+        "y": 580,
+        "wires": [
+            [
+                "783d9b84.16af24"
+            ]
+        ]
+    },
+    {
+        "id": "1547f847.ac9e08",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "d": true,
+        "name": "2 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "120",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "15",
+        "topic": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 400,
+        "wires": [
+            [
+                "3a18203c.8e75e"
+            ]
+        ]
+    },
+    {
+        "id": "3ac77ac2.dd0ede",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "d": true,
+        "name": "2 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "120",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "15",
+        "topic": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 280,
+        "wires": [
+            [
+                "bb710a9c.156c4"
+            ]
+        ]
+    },
+    {
+        "id": "9acc1c61.fe1118",
+        "type": "inject",
+        "z": "74b8347d.aa0b44",
+        "d": true,
+        "name": "2 min",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "120",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "15",
+        "topic": "",
+        "payloadType": "str",
+        "x": 90,
+        "y": 160,
+        "wires": [
+            [
+                "67b1770d.a8a278"
+            ]
+        ]
+    },
+    {
+        "id": "7198045c.92436c",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor2a.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 220,
+        "wires": [
+            [
+                "4d62ba8c.46c2ec"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3e2dd22e.b318f6",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor3a.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 340,
+        "wires": [
+            [
+                "c81ea51e.d7d43"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "1d9b4d3d.2b904b",
+        "type": "exec",
+        "z": "74b8347d.aa0b44",
+        "command": "python3 /home/pi/temp/readmsensor4a.py",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "",
+        "x": 340,
+        "y": 460,
+        "wires": [
+            [
+                "6335a88d.925828"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "307c9412.d4d7ec",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 220,
+        "wires": [
+            [
+                "337705a7.036f12"
+            ]
+        ]
+    },
+    {
+        "id": "4d62ba8c.46c2ec",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 220,
+        "wires": [
+            [
+                "307c9412.d4d7ec"
+            ]
+        ]
+    },
+    {
+        "id": "337705a7.036f12",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = y;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 880,
+        "y": 220,
+        "wires": [
+            [
+                "529454b8.30d24c"
+            ]
+        ]
+    },
+    {
+        "id": "ac5d7d2a.310568",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 340,
+        "wires": [
+            [
+                "a6b54e4d.99c078"
+            ]
+        ]
+    },
+    {
+        "id": "c81ea51e.d7d43",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 340,
+        "wires": [
+            [
+                "ac5d7d2a.310568"
+            ]
+        ]
+    },
+    {
+        "id": "a6b54e4d.99c078",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = y;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 880,
+        "y": 340,
+        "wires": [
+            [
+                "dc7f91e3.889808"
+            ]
+        ]
+    },
+    {
+        "id": "720ca768.368148",
+        "type": "range",
+        "z": "74b8347d.aa0b44",
+        "minin": "0",
+        "maxin": "13550",
+        "minout": "0",
+        "maxout": "100",
+        "action": "clamp",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 740,
+        "y": 460,
+        "wires": [
+            [
+                "3d232654.899d6a"
+            ]
+        ]
+    },
+    {
+        "id": "6335a88d.925828",
+        "type": "calculator",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "sub",
+        "constant": "10000",
+        "round": false,
+        "decimals": 0,
+        "x": 600,
+        "y": 460,
+        "wires": [
+            [
+                "720ca768.368148"
+            ]
+        ]
+    },
+    {
+        "id": "3d232654.899d6a",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "func": "var x = msg.payload;\ny = 100 - x;\nmsg.payload = y;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 460,
+        "wires": [
+            [
+                "60831257.17420c"
+            ]
+        ]
+    },
+    {
+        "id": "e92a1dd5.44cbf8",
+        "type": "link out",
+        "z": "74b8347d.aa0b44",
+        "name": "Moisture 2 Out",
+        "links": [],
+        "x": 1195,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "1b3c678.5b22f19",
+        "type": "link out",
+        "z": "74b8347d.aa0b44",
+        "name": "Moisture 3 Out",
+        "links": [],
+        "x": 1195,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "621ffdca.79174c",
+        "type": "link out",
+        "z": "74b8347d.aa0b44",
+        "name": "Moisture 4 Out",
+        "links": [],
+        "x": 1195,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "7a546850.e06d28",
+        "type": "mqtt out",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "topic": "DP0W/temp",
+        "qos": "0",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "5c32d8fa.de8ae",
+        "x": 1250,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "5a5f975d.ce92c",
+        "type": "mqtt out",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "topic": "DP0W/humidity",
+        "qos": "0",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "5c32d8fa.de8ae",
+        "x": 1260,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "9b47b64701d1cac9",
+        "type": "debug",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1310,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "de01b1577849df89",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "CtoF 2",
+        "func": "    var tempc = msg.temperature;\n    tempf = tempc * 9/5 + 32;\n    tempf = Math.round(tempf);\n    msg.temperature = tempf + \"\";\n    return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 680,
+        "wires": [
+            [
+                "76a447094d7141d6"
+            ]
+        ]
+    },
+    {
+        "id": "f655cc7bb776308f",
+        "type": "string",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "methods": [
+            {
+                "name": "between",
+                "params": [
+                    {
+                        "type": "str",
+                        "value": "Temperature: "
+                    },
+                    {
+                        "type": "str",
+                        "value": " C"
+                    }
+                ]
+            }
+        ],
+        "prop": "payload",
+        "propout": "temperature",
+        "object": "msg",
+        "objectout": "msg",
+        "x": 530,
+        "y": 680,
+        "wires": [
+            [
+                "de01b1577849df89"
+            ]
+        ]
+    },
+    {
+        "id": "6c2867168b280f91",
+        "type": "string",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "methods": [
+            {
+                "name": "between",
+                "params": [
+                    {
+                        "type": "str",
+                        "value": "Humidity: "
+                    },
+                    {
+                        "type": "str",
+                        "value": " %"
+                    }
+                ]
+            }
+        ],
+        "prop": "payload",
+        "propout": "humidity",
+        "object": "msg",
+        "objectout": "msg",
+        "x": 530,
+        "y": 720,
+        "wires": [
+            [
+                "76a447094d7141d6"
+            ]
+        ]
+    },
+    {
+        "id": "76a447094d7141d6",
+        "type": "join",
+        "z": "74b8347d.aa0b44",
+        "name": "",
+        "mode": "custom",
+        "build": "merged",
+        "property": "",
+        "propertyType": "full",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": false,
+        "timeout": "1",
+        "count": "",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 750,
+        "y": 740,
+        "wires": [
+            [
+                "f62f251dadc57fd8"
+            ]
+        ]
+    },
+    {
+        "id": "f62f251dadc57fd8",
+        "type": "function",
+        "z": "74b8347d.aa0b44",
+        "name": "format",
+        "func": "msg.payload = `${msg.time}\nTemperature: ${msg.temperature} F\nHumidity: ${msg.humidity} %`;\nreturn {\"payload\": msg.payload};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 740,
+        "wires": [
+            [
+                "f203d2b3.3dc0f"
+            ]
+        ]
+    },
+    {
+        "id": "160e81fb.f1c86e",
+        "type": "ui_group",
+        "name": "Home",
+        "tab": "b63d1f91.68095",
+        "order": 1,
+        "disp": true,
+        "width": 26,
+        "collapse": false
+    },
+    {
+        "id": "5c32d8fa.de8ae",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "10.0.0.111",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "sessionExpiry": ""
+    },
+    {
+        "id": "b63d1f91.68095",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
