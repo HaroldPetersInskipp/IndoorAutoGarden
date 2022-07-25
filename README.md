@@ -47,12 +47,7 @@ Jumper wires
 
 
 Support local businesses, find the below parts locally if you can.
-
-Solder 
-Vinyl tubing [size for pump]
-Reflective tape, metal tape
-Duct tape
-Trash bucket
+Solder, Vinyl tubing [size for pump], Reflective tape, Metal tape, Duct tape, Trash bucket.
 
 ## ALTERNATIVE/OPTIONAL PARTS LIST
 UV led lighting
